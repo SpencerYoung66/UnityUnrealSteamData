@@ -1,0 +1,711 @@
+,Game,AppID,Review Score,Positive Reviews,Negative Reviews,Review Score Description,Total Review,Units Sold (Estimated),Engine,Is Free,Price,Initial Price,Discounted Percent,Currency,Windows,Mac,Linux,Publishers,Release Date,Required Age
+0,english country tune,207570,8,134,9,Very Positive,143,2860,Unity Engine,False,4.99,4.99,0.0,USD, True, True, True,increpare games,"Aug 9, 2012",0
+1,rwby: grimm eclipse,418340,8,7948,1771,Very Positive,9719,194380,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,rooster teeth games,"Jul 5, 2016",0
+2,pc building simulator,621060,8,34174,2049,Very Positive,36223,724460,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,the irregular corporation,"Jan 29, 2019",0
+3,green hell,815370,8,32644,4649,Very Positive,37293,745860,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,creepy jar,"Sep 5, 2019",0
+4,mini metro,287980,9,9015,357,Overwhelmingly Positive,9372,187440,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,dinosaur polo club,"Nov 6, 2015",0
+5,aegis of earth: protonovus assault,450250,5,24,14,Mixed,38,760,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,aksys games,"Jul 18, 2016",0
+6,the bunker,481110,5,811,359,Mixed,1170,23400,Unity Engine,False,12.99,12.99,0.0,USD, True, True, False,wales interactive,"Sep 20, 2016",0
+7,rick and morty: virtual rick-ality,469610,6,1308,415,Mostly Positive,1723,34460,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,adult swim games,"Apr 20, 2017",0
+8,disco elysium,632470,8,54811,3411,Very Positive,58222,1164440,Unity Engine,False,39.99,39.99,0.0,USD, True, True, False,za/um,"Oct 15, 2019",0
+9,rust,252490,8,592170,86780,Very Positive,678950,13579000,Unity Engine,False,39.99,39.99,0.0,USD, True, True, False,facepunch studios,"Feb 8, 2018",17
+10,tannenberg,633460,8,5716,860,Very Positive,6576,131520,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,m2h,"Nov 16, 2017",0
+11,fox n forests,603400,6,90,24,Mostly Positive,114,2280,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,eurovideo medien ,"May 17, 2018",0
+12,i am bread,327890,6,3534,990,Mostly Positive,4524,90480,Unity Engine,False,12.99,12.99,0.0,USD, True, True, False,tinybuild,"Apr 9, 2015",0
+13,west of loathing,597220,9,7013,167,Overwhelmingly Positive,7180,143600,Unity Engine,False,11.186567164179104,11.186567164179104,0.0,CAD, True, True, True,asymmetric,"10 Aug, 2017",0
+14,night in the woods,481510,8,11490,680,Very Positive,12170,243400,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,finji,"Feb 21, 2017",0
+15,parkitect,453090,8,4729,296,Very Positive,5025,100500,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,texel raptor,"Nov 29, 2018",0
+16,nickelodeon all-star brawl,1414850,6,3223,829,Mostly Positive,4052,81040,Unity Engine,False,49.99,49.99,0.0,USD, True, False, False,gamemill entertainment,"Oct 4, 2021",0
+17,cities: skylines,255710,8,143774,10305,Very Positive,154079,3081580,Unity Engine,False,8.99,29.99,70.0,USD, True, True, True,paradox interactive,"Mar 10, 2015",0
+18,atlas reactor,402570,8,1225,133,Very Positive,1358,27160,Unity Engine,False,,,,, True, False, False,trion worlds,"Oct 4, 2016",0
+19,arma tactics,224860,4,116,240,Mostly Negative,356,7120,Unity Engine,False,8.99,8.99,0.0,USD, True, True, True,bohemia interactive,"Oct 1, 2013",0
+20,pillars of eternity,291650,8,11703,1691,Very Positive,13394,267880,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,paradox interactive,"Mar 26, 2015",0
+21,secret agent hd,1607670,8,97,1,Very Positive,98,1960,Unity Engine,False,7.99,7.99,0.0,USD, True, False, True,apogee entertainment,"Jun 30, 2021",0
+22,cobra kai: the karate kid saga continues,1279920,8,249,38,Very Positive,287,5740,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,gamemill entertainment,"Jan 5, 2021",0
+23,screencheat,301970,8,603,55,Very Positive,658,13160,Unity Engine,False,2.99,14.99,80.0,USD, True, True, True,samurai punk,"Oct 21, 2014",0
+24,dream daddy: a dad dating simulator,654880,8,4198,379,Very Positive,4577,91540,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,game grumps,"Jul 20, 2017",0
+25,motorsport manager,415200,8,8697,817,Very Positive,9514,190280,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,sega,"Nov 9, 2016",0
+26,nascar heat 5,1265860,8,1296,273,Very Positive,1569,31380,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,motorsport games,"Jul 9, 2020",0
+27,dreadout,269790,6,2840,861,Mostly Positive,3701,74020,Unity Engine,False,14.99,14.99,0.0,USD, True, False, True,digital happiness,"May 15, 2014",0
+28,lara croft go,540840,8,2181,139,Very Positive,2320,46400,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,square enix,"Dec 4, 2016",0
+29,among the sleep,250620,8,4054,546,Very Positive,4600,92000,Unity Engine,False,17.51546391752577,17.51546391752577,0.0,EUR, True, True, True,krillbite studio,"29 May, 2014",0
+30,the world next door,755470,8,143,31,Very Positive,174,3480,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,viz media,"Mar 28, 2019",0
+31,catlateral damage,329860,8,817,100,Very Positive,917,18340,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,manekoware,"May 27, 2015",0
+32,rec room,471710,8,113,1,Very Positive,114,2280,Unity Engine,True,,,,, True, False, False,rec room,"Sep 2, 2021",0
+33,final fantasy ix,377840,8,7170,438,Very Positive,7608,152160,Unity Engine,False,17.902985074626862,17.902985074626862,0.0,CAD, True, False, False,square enix,"14 Apr, 2016",13
+34,cooking simulator,641320,8,11053,2061,Very Positive,13114,262280,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,"['big cheese studio', ' playway s.a.']","Jun 6, 2019",0
+35,huniepop,339800,9,22211,818,Overwhelmingly Positive,23029,460580,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,huniepot,"Jan 19, 2015",18
+36,life is strange: before the storm,554620,8,29428,2189,Very Positive,31617,632340,Unity Engine,False,16.99,16.99,0.0,USD, True, True, True,"['square enix', ' feral interactive (mac)', ' feral interactive (linux)']","Aug 31, 2017",17
+37,stories untold,558420,8,2927,446,Very Positive,3373,67460,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,devolver digital,"Feb 27, 2017",0
+38,totally accurate battle simulator,508440,9,86256,1739,Overwhelmingly Positive,87995,1759900,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,landfall,"Apr 1, 2021",0
+39,nascar heat 4,1127980,8,935,190,Very Positive,1125,22500,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,704 games company,"Sep 13, 2019",0
+40,trollhunters: defenders of arcadia,1344070,6,29,8,Mostly Positive,37,740,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,outright games ltd.,"Sep 24, 2020",0
+41,manifold garden,473950,9,3449,130,Overwhelmingly Positive,3579,71580,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,william chyr studio,"Oct 20, 2020",0
+42,twelve minutes,1097200,6,4058,1475,Mostly Positive,5533,110660,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,annapurna interactive,"Aug 19, 2021",0
+43,jack move,1099640,8,247,52,Very Positive,299,5980,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,hypetrain digital,"Sep 8, 2022",0
+44,ultrakill,1229490,9,35302,451,Overwhelmingly Positive,35753,715060,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,new blood interactive,"Sep 3, 2020",0
+45,syndrome,409320,5,132,62,Mixed,194,3880,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,"['camel 101', ' whispergames']","Oct 6, 2016",0
+46,inside,304430,9,34440,1213,Overwhelmingly Positive,35653,713060,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,playdead,"Jul 7, 2016",0
+47,zombieland: double tap - road trip,995430,5,15,10,Mixed,25,500,Unity Engine,False,39.99,39.99,0.0,USD, True, False, False,gamemill entertainment,"Oct 15, 2019",17
+48,orwell,491950,8,6901,645,Very Positive,7546,150920,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,osmotic studios,"Oct 27, 2016",17
+49,furi,423230,8,7134,645,Very Positive,7779,155580,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,the game bakers,"Jul 5, 2016",0
+50,p.a.m.e.l.a.,427880,5,484,303,Mixed,787,15740,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,nvyve® studios,"Jun 18, 2020",0
+51,yiik: a postmodern rpg,459080,5,241,114,Mixed,355,7100,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,ysbryd games,"Jan 17, 2019",0
+52,7 days to die,251570,8,142842,18444,Very Positive,161286,3225720,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,the fun pimps entertainment llc,"Dec 13, 2013",0
+53,year walk,269050,8,1079,84,Very Positive,1163,23260,Unity Engine,False,5.99,5.99,0.0,USD, True, True, False,simogo,"Mar 6, 2014",0
+54,super animal royale,843380,9,6139,296,Overwhelmingly Positive,6435,128700,Unity Engine,True,,,,, True, True, False,modus games,"Aug 26, 2021",0
+55,cities in motion 2,225420,5,675,446,Mixed,1121,22420,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,paradox interactive,"Apr 2, 2013",0
+56,dead effect,286040,6,1960,753,Mostly Positive,2713,54260,Unity Engine,False,4.99,4.99,0.0,USD, True, True, False,"['badfly interactive', ' a.s.']","Dec 17, 2014",0
+57,umurangi generation,1223500,8,651,49,Very Positive,700,14000,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,"['origame digital', ' playism']","May 19, 2020",0
+58,black skylands,1143810,8,814,112,Very Positive,926,18520,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,tinybuild,"Jul 9, 2021",0
+59,hero of many,297370,8,59,8,Very Positive,67,1340,Unity Engine,False,6.99,6.99,0.0,USD, True, True, False,trickster arts,"Sep 15, 2014",0
+60,v rising,1604030,8,38358,5019,Very Positive,43377,867540,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,stunlock studios,"May 17, 2022",0
+61,her story,368370,8,5621,641,Very Positive,6262,125240,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,sam barlow,"Jun 24, 2015",0
+62,"dr. langeskov, the tiger, and the terribly cursed emerald: a whirlwind heist",409160,8,151,7,Very Positive,158,3160,Unity Engine,True,,,,, True, True, False,crows crows crows,"Dec 4, 2015",0
+63,graveyard keeper,599140,8,19318,3106,Very Positive,22424,448480,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,tinybuild,"Aug 15, 2018",0
+64,realmyst: masterpiece edition,244430,8,1015,133,Very Positive,1148,22960,Unity Engine,False,17.99,17.99,0.0,USD, True, True, False,cyan worlds inc,"Feb 5, 2014",0
+65,poi,401810,8,351,24,Very Positive,375,7500,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,polykid,"Feb 1, 2017",0
+66,djmax respect v,960170,8,14899,2176,Very Positive,17075,341500,Unity Engine,False,12.49,49.99,75.0,USD, True, False, False,neowiz,"Mar 11, 2020",0
+67,tis-100,370360,9,2771,69,Overwhelmingly Positive,2840,56800,Unity Engine,False,6.99,6.99,0.0,USD, True, True, True,zachtronics,"Jul 20, 2015",0
+68,sands of salzaar,1094520,8,15290,2886,Very Positive,18176,363520,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,xd,"Dec 15, 2021",0
+69,tunic,553420,8,4578,373,Very Positive,4951,99020,Unity Engine,False,25.365671641791046,25.365671641791046,0.0,CAD, True, True, False,finji,"16 Mar, 2022",0
+70,hand of fate,266510,8,6863,755,Very Positive,7618,152360,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,defiant development,"Feb 17, 2015",0
+71,teslagrad,249590,8,1320,233,Very Positive,1553,31060,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,rain games,"Dec 13, 2013",0
+72,necropolis,384490,5,2317,1319,Mixed,3636,72720,Unity Engine,False,29.99,29.99,0.0,USD, True, True, False,"['paradox interactive', ' bandai namco']",Jul 2016,0
+73,white day: a labyrinth named school,466130,6,1285,340,Mostly Positive,1625,32500,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,"['pqube', ' sonnori corp']","Aug 22, 2017",0
+74,naraka: bladepoint,1203220,6,91104,24399,Mostly Positive,115503,2310060,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,netease games global,"Aug 11, 2021",0
+75,trailmakers,585420,8,10584,829,Very Positive,11413,228260,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,flashbulb,"Sep 18, 2019",0
+76,crying suns,873940,8,2108,336,Very Positive,2444,48880,Unity Engine,False,24.99,24.99,0.0,USD, True, True, False,humble games,"Sep 18, 2019",0
+77,armello,290340,8,8325,1770,Very Positive,10095,201900,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,league of geeks,"Sep 1, 2015",0
+78,thronebreaker: the witcher tales,973760,8,10969,1227,Very Positive,12196,243920,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,cd projekt red,"Nov 9, 2018",0
+79,phasmophobia,739630,9,383402,11497,Overwhelmingly Positive,394899,7897980,Unity Engine,False,13.99,13.99,0.0,USD, True, False, False,kinetic games,"Sep 18, 2020",0
+80,guns and robots,293540,4,5,10,Mostly Negative,15,300,Unity Engine,True,,,,, True, False, False,"['masthead studios ltd', ' thegamewallstudios', ' gamigo ag']","Aug 4, 2014",0
+81,islanders,1046030,9,13061,664,Overwhelmingly Positive,13725,274500,Unity Engine,False,4.99,4.99,0.0,USD, True, True, True,coatsink,"Apr 4, 2019",0
+82,shroud of the avatar: forsaken virtues,326160,5,502,463,Mixed,965,19300,Unity Engine,True,,,,, True, True, True,catnip games,"Mar 27, 2018",0
+83,digimon survive,871980,8,1510,340,Very Positive,1850,37000,Unity Engine,False,59.99,59.99,0.0,USD, True, False, False,bandai namco entertainment inc.,"Jul 28, 2022",0
+84,glittermitten grove,536890,8,259,52,Very Positive,311,6220,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,,"Dec 13, 2016",0
+85,house party,611790,8,9921,1392,Very Positive,11313,226260,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,"['eek! games', ' llc']","Jul 15, 2022",17
+86,aaero,499890,8,269,21,Very Positive,290,5800,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,mad fellows,"Apr 11, 2017",0
+87,klonoa phantasy reverie series,1730680,9,796,21,Overwhelmingly Positive,817,16340,Unity Engine,False,39.99,39.99,0.0,USD, True, False, False,bandai namco entertainment,"Jul 7, 2022",0
+88,the long dark,305620,8,73799,6419,Very Positive,80218,1604360,Unity Engine,False,34.99,34.99,0.0,USD, True, True, True,hinterland studio inc.,"Aug 1, 2017",0
+89,victory at sea,298480,6,337,117,Mostly Positive,454,9080,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,evil twin artworks,"Aug 8, 2014",0
+90,iron harvest,826630,6,5820,2026,Mostly Positive,7846,156920,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,prime matter,"Aug 31, 2020",0
+91,pathologic 2,505230,8,5441,420,Very Positive,5861,117220,Unity Engine,False,34.99,34.99,0.0,USD, True, False, False,tinybuild,"May 23, 2019",0
+92,aragami,280160,8,7778,814,Very Positive,8592,171840,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,lince works,"Oct 4, 2016",0
+93,dex,269650,8,2159,327,Very Positive,2486,49720,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,"['dreadlocks ltd.', ' techland', ' whispergames']","May 7, 2015",0
+94,human: fall flat,477160,8,123460,7054,Very Positive,130514,2610280,Unity Engine,False,4.589449489936793,15.298164966455975,70.0,KRW, True, True, False,curve games,"22 Jul, 2016",0
+95,the dwarves,403970,6,737,253,Mostly Positive,990,19800,Unity Engine,False,39.99,39.99,0.0,USD, True, True, True,"['thq nordic', ' eurovideo medien']","Dec 1, 2016",0
+96,cloudpunk,746850,8,9116,1084,Very Positive,10200,204000,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,"['ion lands', ' maple whispering limited']","Apr 23, 2020",0
+97,gunfire reborn,1217060,8,64132,3753,Very Positive,67885,1357700,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,duoyi games,"Nov 17, 2021",0
+98,desperados iii,610370,9,7003,223,Overwhelmingly Positive,7226,144520,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,thq nordic,"Jun 16, 2020",17
+99,shadow blade: reload,272330,8,146,20,Very Positive,166,3320,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,dead mage,"Aug 10, 2015",0
+100,doom,379720,9,107376,5195,Overwhelmingly Positive,112571,2251420,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,bethesda softworks,"May 12, 2016",17
+101,dusk,519860,9,14485,308,Overwhelmingly Positive,14793,295860,Unity Engine,False,16.41044776119403,16.41044776119403,0.0,CAD, True, True, True,new blood interactive,"10 Dec, 2018",0
+102,nascar heat evolution,508450,5,153,136,Mixed,289,5780,Unity Engine,False,9.99,9.99,0.0,USD, True, False, False,dusenberry martin racing,"Sep 12, 2016",0
+103,the lab,450390,8,212,14,Very Positive,226,4520,Unity Engine,True,,,,, True, False, False,valve,"Apr 5, 2016",0
+104,dawn of the monsters,1642170,8,58,5,Very Positive,63,1260,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,wayforward,"Mar 15, 2022",0
+105,slime rancher 2,1657630,9,9752,482,Overwhelmingly Positive,10234,204680,Unity Engine,False,8.574582924435722,8.574582924435722,0.0,INR, True, False, False,monomi park,"22 Sep, 2022",0
+106,infinifactory,300570,8,1520,81,Very Positive,1601,32020,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,zachtronics,"Jun 30, 2015",0
+107,yestermorrow,1210490,5,24,11,Mixed,35,700,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,"['blowfish studios', ' gamera games (china)', ' orenda (asia)']","Nov 5, 2020",0
+108,tyranny,362960,8,7159,1072,Very Positive,8231,164620,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,paradox interactive,"Nov 10, 2016",0
+109,pony island,405640,9,9697,453,Overwhelmingly Positive,10150,203000,Unity Engine,False,4.99,4.99,0.0,USD, True, True, True,daniel mullins games,"Jan 4, 2016",0
+110,just shapes & beats,531510,9,13911,305,Overwhelmingly Positive,14216,284320,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,berzerk studio,"May 31, 2018",0
+111,monument valley 2,1927740,8,302,15,Very Positive,317,6340,Unity Engine,False,7.99,7.99,0.0,USD, True, False, False,ustwo games,"Jul 12, 2022",0
+112,helltaker,1289310,8,366,4,Very Positive,370,7400,Unity Engine,True,,,,, True, True, True,vanripper,11 мая. 2020,0
+113,interstellar marines,236370,5,2285,1918,Mixed,4203,84060,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,zero point software,"Jul 2, 2013",0
+114,car mechanic simulator 2015,320300,8,10691,913,Very Positive,11604,232080,Unity Engine,False,2.49,24.99,90.0,USD, True, True, False,playway s.a.,"Apr 23, 2015",0
+115,legend of dungeon,238280,6,863,313,Mostly Positive,1176,23520,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,,"Sep 13, 2013",0
+116,the last tinker: city of colors,260160,6,484,138,Mostly Positive,622,12440,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,daedalic entertainment,"May 12, 2014",0
+117,double dragon iv,528610,5,390,236,Mixed,626,12520,Unity Engine,False,6.99,6.99,0.0,USD, True, False, False,arc system works,"Jan 30, 2017",0
+118,void bastards,857980,8,2897,415,Very Positive,3312,66240,Unity Engine,False,29.99,29.99,0.0,USD, True, True, False,humble games,"May 28, 2019",0
+119,lost sphear,525240,5,78,64,Mixed,142,2840,Unity Engine,False,49.99,49.99,0.0,USD, True, False, False,square enix,"Jan 23, 2018",10
+120,everhood,1229380,9,7443,286,Overwhelmingly Positive,7729,154580,Unity Engine,False,9.99,9.99,0.0,USD, True, False, False,"['foreign gnomes', ' surefire.games']","Mar 4, 2021",0
+121,ziggurat,308420,8,2367,333,Very Positive,2700,54000,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,milkstone studios,"Oct 23, 2014",0
+122,bendy and the ink machine,622650,8,8703,1034,Very Positive,9737,194740,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,joey drew studios,"Apr 27, 2017",0
+123,a valley without wind,209330,5,115,70,Mixed,185,3700,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,"['arcen games', ' llc']","Apr 24, 2012",0
+124,clustertruck,397950,8,9032,634,Very Positive,9666,193320,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,tinybuild,"Sep 27, 2016",0
+125,pga tour 2k23,1588010,5,156,89,Mixed,245,4900,Unity Engine,False,59.99,59.99,0.0,USD, True, False, False,2k,"Oct 13, 2022",0
+126,big pharma,344850,6,1013,294,Mostly Positive,1307,26140,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,positech games,"Aug 27, 2015",0
+127,i hate running backwards,575820,6,120,41,Mostly Positive,161,3220,Unity Engine,False,14.99,14.99,0.0,USD, True, False, True,devolver digital,"May 22, 2018",0
+128,heavy bullets,297120,8,935,200,Very Positive,1135,22700,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,devolver digital,"Sep 18, 2014",0
+129,tattletail,568090,8,2495,171,Very Positive,2666,53320,Unity Engine,False,4.99,4.99,0.0,USD, True, True, False,"['little flag software', ' llc']","Dec 28, 2016",0
+130,little misfortune,714120,8,4385,491,Very Positive,4876,97520,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,killmonday games ab,"Sep 18, 2019",0
+131,fract osc,243220,8,328,57,Very Positive,385,7700,Unity Engine,False,14.99,14.99,0.0,USD, True, True, False,phosfiend systems,"Apr 22, 2014",0
+132,badiya,545050,5,145,122,Mixed,267,5340,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,semaphore,"Nov 11, 2016",0
+133,space pirate trainer,418650,8,2402,129,Very Positive,2531,50620,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,i-illusions,"Oct 12, 2017",0
+134,totally accurate battlegrounds,823130,8,13769,1792,Very Positive,15561,311220,Unity Engine,True,,,,, True, False, False,landfall,"Jun 5, 2018",0
+135,fe,1225580,8,230,33,Very Positive,263,5260,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,electronic arts,"Jun 4, 2020",0
+136,rimworld,294100,9,116771,2056,Overwhelmingly Positive,118827,2376540,Unity Engine,False,34.99,34.99,0.0,USD, True, True, True,ludeon studios,"Oct 17, 2018",0
+137,darkwood,274520,8,11637,644,Very Positive,12281,245620,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,acid wizard studio,"Aug 17, 2017",0
+138,ori and the will of the wisps,1057090,9,82306,2979,Overwhelmingly Positive,85285,1705700,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,xbox game studios,"Mar 10, 2020",0
+139,gtfo,493520,8,25932,3830,Very Positive,29762,595240,Unity Engine,False,39.99,39.99,0.0,USD, True, False, False,10 chambers,"Dec 9, 2021",0
+140,max: the curse of brotherhood,255390,8,1137,63,Very Positive,1200,24000,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,xbox game studios,"May 21, 2014",0
+141,runner3,516130,6,160,48,Mostly Positive,208,4160,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,choice provisions,"May 22, 2018",0
+142,inscryption,1092790,9,69837,2040,Overwhelmingly Positive,71877,1437540,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,devolver digital,"Oct 19, 2021",0
+143,ylands,298610,5,2137,1446,Mixed,3583,71660,Unity Engine,True,,,,, True, False, False,bohemia interactive,"Dec 5, 2019",0
+144,electronic super joy,244870,8,2280,248,Very Positive,2528,50560,Unity Engine,False,7.99,7.99,0.0,USD, True, True, True,2&30 software,"Aug 23, 2013",0
+145,yooka-laylee,360830,6,1866,487,Mostly Positive,2353,47060,Unity Engine,False,39.99,39.99,0.0,USD, True, True, True,team17 digital ltd,"Apr 11, 2017",0
+146,punch club,394310,8,6940,1488,Very Positive,8428,168560,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,tinybuild,"Jan 8, 2016",0
+147,far: lone sails,609320,8,9837,601,Very Positive,10438,208760,Unity Engine,False,2.99,14.99,80.0,USD, True, True, False,assemble entertainment,"May 17, 2018",0
+148,outer wilds,753640,9,35332,1702,Overwhelmingly Positive,37034,740680,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,annapurna interactive,"Jun 18, 2020",0
+149,i am setsuna,441830,6,937,352,Mostly Positive,1289,25780,Unity Engine,False,39.99,39.99,0.0,USD, True, False, False,square enix,"Jul 19, 2016",0
+150,umbrella corps,390340,4,338,608,Mostly Negative,946,18920,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,capcom,"Jun 21, 2016",17
+151,house flipper,613100,8,55093,3859,Very Positive,58952,1179040,Unity Engine,False,24.99,24.99,0.0,USD, True, True, False,"['frozen district', ' playway s.a.']","May 17, 2018",0
+152,verdun,242860,8,24047,3443,Very Positive,27490,549800,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,m2h,"Apr 28, 2015",0
+153,wizard of legend,445980,8,12496,1114,Very Positive,13610,272200,Unity Engine,False,15.99,15.99,0.0,USD, True, True, True,"['contingent99', ' humble games']","May 15, 2018",0
+154,raft,648800,8,169156,11831,Very Positive,180987,3619740,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,axolot games,"Jun 20, 2022",0
+155,empyrion - galactic survival,383120,8,19898,4683,Very Positive,24581,491620,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,eleon game studios,"Aug 5, 2020",0
+156,dropsy,274350,8,1162,69,Very Positive,1231,24620,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,devolver digital,"Sep 10, 2015",0
+157,superliminal,1049410,8,14956,812,Very Positive,15768,315360,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,pillow castle,"Nov 5, 2020",0
+158,armikrog,334120,5,600,399,Mixed,999,19980,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,versus evil,"Sep 30, 2015",0
+159,black book,1138660,8,3201,191,Very Positive,3392,67840,Unity Engine,False,24.99,24.99,0.0,USD, True, True, False,hypetrain digital,"Aug 10, 2021",0
+160,two point hospital,535930,8,19999,1646,Very Positive,21645,432900,Unity Engine,False,34.99,34.99,0.0,USD, True, True, True,sega,"Aug 29, 2018",0
+161,adventure time: pirates of the enchiridion,728240,8,358,45,Very Positive,403,8060,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,outright games ltd.,"Jul 17, 2018",0
+162,battletech,637090,8,15023,3118,Very Positive,18141,362820,Unity Engine,False,39.99,39.99,0.0,USD, True, True, True,paradox interactive,"Apr 24, 2018",0
+163,osiris: new dawn,402710,5,7066,4437,Mixed,11503,230060,Unity Engine,False,34.99,34.99,0.0,USD, True, False, False,fenix fire entertainment,"Sep 28, 2016",0
+164,thomas was alone,220780,8,3454,249,Very Positive,3703,74060,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,bithell games,"Nov 12, 2012",0
+165,children of morta,330020,8,10022,1013,Very Positive,11035,220700,Unity Engine,False,21.99,21.99,0.0,USD, True, True, True,11 bit studios,"Sep 3, 2019",0
+166,tony stewart's sprint car racing,1240230,8,161,22,Very Positive,183,3660,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,"['monster games', ' inc.']","Feb 21, 2020",0
+167,my time at portia,666140,8,27685,2169,Very Positive,29854,597080,Unity Engine,False,29.99,29.99,0.0,USD, True, True, False,team17,"Jan 15, 2019",0
+168,gorogoa,557600,9,11281,304,Overwhelmingly Positive,11585,231700,Unity Engine,False,14.99,14.99,0.0,USD, True, True, False,annapurna interactive,"Dec 14, 2017",0
+169,yooka-laylee and the impossible lair,846870,8,461,53,Very Positive,514,10280,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,team17 digital ltd,"Oct 8, 2019",0
+170,neo: the world ends with you,1647550,8,63,1,Very Positive,64,1280,Unity Engine,False,59.99,59.99,0.0,USD, True, False, False,square enix,"Oct 19, 2022",0
+171,war for the overworld,230190,8,4778,783,Very Positive,5561,111220,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,brightrock games,"Apr 2, 2015",0
+172,corpse party: blood drive,824830,8,190,35,Very Positive,225,4500,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,xseed games,"Oct 10, 2019",0
+173,saurian,587450,5,797,438,Mixed,1235,24700,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,"['urvogel games', ' llc']","Aug 2, 2017",0
+174,crystal caves hd,1330890,8,213,2,Very Positive,215,4300,Unity Engine,False,7.99,7.99,0.0,USD, True, False, True,apogee entertainment,"Oct 15, 2020",0
+175,pewdiepie: legend of the brofist,390520,8,1070,103,Very Positive,1173,23460,Unity Engine,False,7.99,7.99,0.0,USD, True, True, False,outerminds inc.,"Dec 10, 2015",0
+176,wasteland 2,240760,8,3750,807,Very Positive,4557,91140,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,inxile entertainment,"Sep 18, 2014",17
+177,katamari damacy reroll,848350,8,2916,226,Very Positive,3142,62840,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,bandai namco entertainment,"Dec 6, 2018",0
+178,death's door,894020,8,10111,639,Very Positive,10750,215000,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,devolver digital,"Jul 20, 2021",0
+179,jungle rumble,1608210,0,2,1,3 user reviews,3,60,Unity Engine,False,10.99,10.99,0.0,USD, True, False, False,kovalevviktor,"May 2, 2021",0
+180,hot lava,382560,8,3768,270,Very Positive,4038,80760,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,klei entertainment,"Sep 19, 2019",0
+181,gris,683320,9,48545,1616,Overwhelmingly Positive,50161,1003220,Unity Engine,False,16.99,16.99,0.0,USD, True, True, False,devolver digital,"Dec 13, 2018",0
+182,albion online,761890,6,1286,486,Mostly Positive,1772,35440,Unity Engine,True,,,,, True, True, True,sandbox interactive gmbh,"May 16, 2018",0
+183,pac-man world re-pac,1859470,8,293,13,Very Positive,306,6120,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,bandai namco entertainment,"Aug 25, 2022",0
+184,forced,249990,6,1298,444,Mostly Positive,1742,34840,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,betadwarf,"Oct 24, 2013",0
+185,"sir, you are being hunted",242880,6,2263,577,Mostly Positive,2840,56800,Unity Engine,False,19.99,19.99,0.0,USD, True, False, True,big robot ltd,"May 2, 2014",0
+186,slender: the arrival,252330,8,5376,726,Very Positive,6102,122040,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,blue isle publishing,"Oct 28, 2013",0
+187,dungeons 2,262280,6,1616,457,Mostly Positive,2073,41460,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,kalypso media digital,"Apr 24, 2015",0
+188,big buck hunter arcade,455700,5,29,15,Mixed,44,880,Unity Engine,False,9.99,9.99,0.0,USD, True, False, False,gamemill entertainment,"Oct 25, 2016",0
+189,little witch academia: chamber of time,710470,6,722,208,Mostly Positive,930,18600,Unity Engine,False,39.99,39.99,0.0,USD, True, False, False,bandai namco entertainment,"May 15, 2018",0
+190,star trek timelines,600750,0,3,1,4 user reviews,4,80,Unity Engine,True,,,,, True, False, False,tilting point,"Jul 12, 2017",0
+191,dead effect 2,394760,6,1221,464,Mostly Positive,1685,33700,Unity Engine,False,11.99,11.99,0.0,USD, True, True, False,app holdings,"May 6, 2016",0
+192,subnautica,264710,9,179503,6616,Overwhelmingly Positive,186119,3722380,Unity Engine,False,29.99,29.99,0.0,USD, True, True, False,unknown worlds entertainment,"Jan 23, 2018",0
+193,shadowverse,453480,8,290,66,Very Positive,356,7120,Unity Engine,True,,,,, True, True, False,"['cygames', ' inc.', ' cygames korea inc.']","Oct 27, 2016",0
+194,boneworks,823500,8,27660,2325,Very Positive,29985,599700,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,stress level zero,"Dec 10, 2019",0
+195,untitled goose game,837470,9,10201,424,Overwhelmingly Positive,10625,212500,Unity Engine,False,17.007462686567163,17.007462686567163,0.0,CAD, True, True, False,panic,"23 Sep, 2020",0
+196,rune factory 5,1702330,8,579,136,Very Positive,715,14300,Unity Engine,False,49.99,49.99,0.0,USD, True, False, False,"['xseed games', ' marvelous usa', ' inc.', ' marvelous']","Jul 13, 2022",0
+197,tabletop simulator,286160,9,31328,1293,Overwhelmingly Positive,32621,652420,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,berserk games,"Jun 5, 2015",0
+198,"that dragon, cancer",419460,8,1041,115,Very Positive,1156,23120,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,numinous games,"Jan 11, 2016",0
+199,the novelist,245150,6,417,112,Mostly Positive,529,10580,Unity Engine,False,4.99,4.99,0.0,USD, True, True, True,,"Dec 10, 2013",0
+200,frog fractions: game of the decade edition,1194840,8,70,0,Very Positive,70,1400,Unity Engine,True,,,,, True, True, False,"['twinbeard', ' inc.']","Aug 2, 2020",0
+201,fall guys,1097150,8,338905,75042,Very Positive,413947,8278940,Unity Engine,False,,,,, True, False, False,,"3 Aug, 2020",0
+202,homeworld: deserts of kharak,281610,8,4928,1018,Very Positive,5946,118920,Unity Engine,False,49.99,49.99,0.0,USD, True, True, False,gearbox publishing,"Jan 20, 2016",0
+203,atom rpg,552620,8,6737,872,Very Positive,7609,152180,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,atomteam,"Dec 19, 2018",0
+204,superhot,322500,8,18815,1974,Very Positive,20789,415780,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,superhot team,"Feb 25, 2016",0
+205,power rangers: battle for the grid,1110100,8,904,121,Very Positive,1025,20500,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,"['nway', ' inc']","Sep 24, 2019",0
+206,oxenfree,388880,8,7379,593,Very Positive,7972,159440,Unity Engine,False,8.574626865671641,8.574626865671641,0.0,CAD, True, True, True,night school studio,"14 Jan, 2016",0
+207,flotsam,821250,6,1543,524,Mostly Positive,2067,41340,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,pajama llama games,"Sep 26, 2019",0
+208,fractal,566180,0,2,3,5 user reviews,5,100,Unity Engine,False,6.99,6.99,0.0,USD, True, False, False,phosphene designs llc,"Jan 12, 2017",0
+209,super monkey ball: banana blitz hd,1061730,5,150,112,Mixed,262,5240,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,sega,"Dec 10, 2019",0
+210,forgotton anne,542050,8,1098,105,Very Positive,1203,24060,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,throughline games,"May 15, 2018",0
+211,chaos reborn,319050,6,592,194,Mostly Positive,786,15720,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,snapshot games inc.,"Oct 26, 2015",0
+212,rollercoaster tycoon world,282560,4,766,2252,Mostly Negative,3018,60360,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,"['atari', ' rcto productions']","Nov 16, 2016",0
+213,freedom planet 2,595500,9,673,27,Overwhelmingly Positive,700,14000,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,galaxytrail,"Sep 13, 2022",0
+214,return of the obra dinn,653530,9,15585,518,Overwhelmingly Positive,16103,322060,Unity Engine,False,17.007462686567163,17.007462686567163,0.0,CAD, True, True, False,3909,"18 Oct, 2018",0
+215,grow home,323320,8,3237,242,Very Positive,3479,69580,Unity Engine,False,7.99,7.99,0.0,USD, True, False, True,ubisoft,"Feb 4, 2015",0
+216,space hulk,242570,6,1051,442,Mostly Positive,1493,29860,Unity Engine,False,,,,, True, True, True,full control,"Aug 15, 2013",0
+217,florence,1102130,8,6714,470,Very Positive,7184,143680,Unity Engine,False,5.99,5.99,0.0,USD, True, True, False,annapurna interactive,"Feb 13, 2020",0
+218,the bridge,204240,8,2749,357,Very Positive,3106,62120,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,the quantum astrophysicists guild,"Feb 22, 2013",0
+219,moebius: empire rising,264520,6,108,30,Mostly Positive,138,2760,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,phoenix online publishing,"Apr 15, 2014",0
+220,crayola scoot,772530,6,23,8,Mostly Positive,31,620,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,outright games ltd.,"Oct 16, 2018",0
+221,ghost of a tale,417290,8,3034,264,Very Positive,3298,65960,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,seithcg,"Mar 13, 2018",0
+222,temtem,745920,8,24347,4422,Very Positive,28769,575380,Unity Engine,False,25.091078066914502,25.091078066914502,0.0,BRL, True, False, False,humble games,6/set./2022,10
+223,defunct,359350,8,404,91,Very Positive,495,9900,Unity Engine,False,9.99,9.99,0.0,USD, True, False, False,soedesco,"Jan 29, 2016",0
+224,layers of fear,391720,8,9998,1031,Very Positive,11029,220580,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,bloober team sa,"Feb 15, 2016",0
+225,doki doki literature club plus!,1388880,9,15552,524,Overwhelmingly Positive,16076,321520,Unity Engine,False,14.99,14.99,0.0,USD, True, True, False,serenity forge,"Jun 30, 2021",0
+226,streets of rogue,512900,9,11909,426,Overwhelmingly Positive,12335,246700,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,tinybuild,"Jul 12, 2019",0
+227,140,242820,8,1738,102,Very Positive,1840,36800,Unity Engine,False,4.99,4.99,0.0,USD, True, True, True,carlsen games,"Oct 16, 2013",0
+228,adventures of pip,303550,8,122,20,Very Positive,142,2840,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,tic toc games,"Jun 4, 2015",0
+229,there is no game: wrong dimension,1240210,9,15858,326,Overwhelmingly Positive,16184,323680,Unity Engine,False,12.99,12.99,0.0,USD, True, True, False,draw me a pixel,"Aug 6, 2020",0
+230,paw patrol: on a roll,758730,8,211,37,Very Positive,248,4960,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,outright games ltd.,"Oct 23, 2018",0
+231,hellpoint,628670,6,1647,450,Mostly Positive,2097,41940,Unity Engine,False,34.99,34.99,0.0,USD, True, True, True,tinybuild,"Jul 30, 2020",0
+232,assault android cactus,250110,8,1102,59,Very Positive,1161,23220,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,witch beam,"Sep 23, 2015",0
+233,super bomberman r,702700,5,191,152,Mixed,343,6860,Unity Engine,False,39.99,39.99,0.0,USD, True, False, False,konami digital entertainment,"Jun 12, 2018",0
+234,in other waters,890720,8,944,89,Very Positive,1033,20660,Unity Engine,False,4.49,14.99,70.0,USD, True, True, False,fellow traveller,"Apr 3, 2020",0
+235,torment: tides of numenera,272270,6,1257,499,Mostly Positive,1756,35120,Unity Engine,False,34.99,34.99,0.0,USD, True, True, True,inxile entertainment,"Feb 27, 2017",17
+236,lifeless planet,261530,6,1800,515,Mostly Positive,2315,46300,Unity Engine,False,19.99,19.99,0.0,USD, True, False, True,serenity forge,"Jun 6, 2014",0
+237,project hospital,868360,8,4700,640,Very Positive,5340,106800,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,oxymoron games,"Oct 30, 2018",0
+238,death squared,471810,8,296,24,Very Positive,320,6400,Unity Engine,False,14.99,14.99,0.0,USD, True, True, False,smg studio,"Mar 13, 2017",0
+239,stranded deep,313120,6,25962,8290,Mostly Positive,34252,685040,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,beam team publishing,"Aug 10, 2022",0
+240,slime rancher,433340,9,85028,1807,Overwhelmingly Positive,86835,1736700,Unity Engine,False,16.41044776119403,16.41044776119403,0.0,CAD, True, True, True,monomi park,"1 Aug, 2017",0
+241,transformers: battlegrounds,1177000,7,40,7,Positive,47,940,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,outright games ltd.,"Oct 22, 2020",0
+242,sairento vr,555880,8,1199,172,Very Positive,1371,27420,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,mixed realms pte ltd,"Feb 6, 2018",0
+243,deus ex: the fall,258180,4,1161,2064,Mostly Negative,3225,64500,Unity Engine,False,9.99,9.99,0.0,USD, True, False, False,square enix,"Mar 17, 2014",17
+244,alba: a wildlife adventure,1337010,9,2879,61,Overwhelmingly Positive,2940,58800,Unity Engine,False,16.99,16.99,0.0,USD, True, False, False,"['ustwo games', ' pid games']","Dec 11, 2020",0
+245,dungeons 3,493900,8,10776,658,Very Positive,11434,228680,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,kalypso media,"Oct 13, 2017",0
+246,plague inc: evolved,246620,8,37772,2208,Very Positive,39980,799600,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,ndemic creations,"Feb 18, 2016",0
+247,dreamfall chapters,237850,8,2434,509,Very Positive,2943,58860,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,red thread games,"Jul 21, 2017",0
+248,ape out,447150,8,2069,127,Very Positive,2196,43920,Unity Engine,False,14.544776119402982,14.544776119402982,0.0,CAD, True, True, False,devolver digital,"28 Feb, 2019",0
+249,donut county,702670,8,5604,613,Very Positive,6217,124340,Unity Engine,False,12.99,12.99,0.0,USD, True, True, False,annapurna interactive,"Aug 28, 2018",0
+250,wasteland 3,719040,8,10401,1968,Very Positive,12369,247380,Unity Engine,False,33.94776119402985,33.94776119402985,0.0,CAD, True, True, True,inxile entertainment,"27 Aug, 2020",0
+251,kentucky route zero,231200,8,1873,392,Very Positive,2265,45300,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,cardboard computer,"Feb 22, 2013",0
+252,oxygen not included,457140,9,80317,2892,Overwhelmingly Positive,83209,1664180,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,klei entertainment,"Jul 30, 2019",0
+253,besiege,346010,9,38177,1739,Overwhelmingly Positive,39916,798320,Unity Engine,False,7.49,14.99,50.0,USD, True, True, True,spiderling studios,"Feb 18, 2020",0
+254,the silver case,476650,8,402,67,Very Positive,469,9380,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,grasshopper manufacture inc.,"Oct 6, 2016",0
+255,deemo -reborn-,1282210,8,2443,337,Very Positive,2780,55600,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,rayark international limited,"Sep 3, 2020",0
+256,the room,288160,9,19854,458,Overwhelmingly Positive,20312,406240,Unity Engine,False,4.99,4.99,0.0,USD, True, False, False,fireproof games,"Jul 28, 2014",0
+257,valley,378610,8,5366,499,Very Positive,5865,117300,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,blue isle publishing,"Aug 24, 2016",0
+258,super lucky's tale,847360,8,316,54,Very Positive,370,7400,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,xbox game studios,"Sep 14, 2018",0
+259,everything,582270,8,2309,442,Very Positive,2751,55020,Unity Engine,False,14.917910447761193,14.917910447761193,0.0,CAD, True, True, True,"['david oreilly', ' playism (japan)']","21 Apr, 2017",0
+260,shellshock live,326460,8,23891,1602,Very Positive,25493,509860,Unity Engine,False,6.99,6.99,0.0,USD, True, True, True,kchamp games,"May 22, 2020",0
+261,pathfinder: kingmaker,640820,6,17612,4866,Mostly Positive,22478,449560,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,prime matter,"Sep 25, 2018",0
+262,pillars of eternity ii: deadfire,560130,8,9503,1413,Very Positive,10916,218320,Unity Engine,False,9.99,39.99,75.0,USD, True, True, True,"['versus evil', ' obsidian entertainment']","May 8, 2018",17
+263,sylvio,362860,6,83,26,Mostly Positive,109,2180,Unity Engine,False,12.99,12.99,0.0,USD, True, True, False,stroboskop,"Jun 5, 2015",0
+264,firewatch,383870,8,48232,6205,Very Positive,54437,1088740,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,"['panic', ' campo santo']","Feb 9, 2016",0
+265,vrchat,438100,8,126,25,Very Positive,151,3020,Unity Engine,True,,,,, True, False, False,vrchat inc.,"Feb 1, 2017",0
+266,the forest,242760,9,327897,16141,Overwhelmingly Positive,344038,6880760,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,endnight games ltd,"Apr 30, 2018",18
+267,broforce,274190,9,39041,1161,Overwhelmingly Positive,40202,804040,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,devolver digital,"Oct 15, 2015",0
+268,kairo,233230,6,1076,373,Mostly Positive,1449,28980,Unity Engine,False,4.99,4.99,0.0,USD, True, True, True,lupus studios limited,"Apr 24, 2013",0
+269,phoenix point,839770,6,2472,934,Mostly Positive,3406,68120,Unity Engine,False,24.99,24.99,0.0,USD, True, True, False,snapshot games inc.,"Dec 3, 2020",0
+270,organ trail: director's cut,233740,8,1915,215,Very Positive,2130,42600,Unity Engine,False,4.99,4.99,0.0,USD, True, True, True,the men who wear many hats,"Mar 19, 2013",0
+271,the mummy demastered,630310,8,328,75,Very Positive,403,8060,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,wayforward,"Oct 24, 2017",0
+272,pikuniku,572890,9,4685,189,Overwhelmingly Positive,4874,97480,Unity Engine,False,12.99,12.99,0.0,USD, True, True, True,devolver digital,"Jan 24, 2019",0
+273,battletoads,1244950,5,1090,471,Mixed,1561,31220,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,"['microsoft studios', ' rare ltd']","Aug 20, 2020",10
+274,the room two,425580,9,14144,312,Overwhelmingly Positive,14456,289120,Unity Engine,False,4.99,4.99,0.0,USD, True, False, False,fireproof games,"Jul 5, 2016",0
+275,unturned,304930,8,6979,729,Very Positive,7708,154160,Unity Engine,True,,,,, True, True, True,smartly dressed games,"Jul 7, 2017",0
+276,sudden strike 4,373930,6,3915,1165,Mostly Positive,5080,101600,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,kalypso media,"Aug 11, 2017",0
+277,knights and bikes,592480,8,270,23,Very Positive,293,5860,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,"['foam sword', ' playism']","Aug 26, 2019",0
+278,outward,794260,6,12168,4210,Mostly Positive,16378,327560,Unity Engine,False,17.99,39.99,55.0,USD, True, False, False,prime matter,"May 17, 2022",0
+279,sunless sea,304650,8,5643,1058,Very Positive,6701,134020,Unity Engine,False,18.99,18.99,0.0,USD, True, True, True,failbetter games,"Feb 6, 2015",0
+280,ultimate chicken horse,386940,9,22283,791,Overwhelmingly Positive,23074,461480,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,clever endeavour games,"Mar 4, 2016",0
+281,hardspace: shipbreaker,1161580,8,11549,1401,Very Positive,12950,259000,Unity Engine,False,34.99,34.99,0.0,USD, True, False, False,focus entertainment,"May 24, 2022",0
+282,uboat,494840,8,10619,2519,Very Positive,13138,262760,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,playway s.a.,"Apr 30, 2019",0
+283,shadow tactics: blades of the shogun,418240,9,24963,968,Overwhelmingly Positive,25931,518620,Unity Engine,False,39.99,39.99,0.0,USD, True, True, True,daedalic entertainment,"Dec 6, 2016",0
+284,aegis defenders,371140,6,106,31,Mostly Positive,137,2740,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,humble games,"Feb 8, 2018",0
+285,observation,906100,6,2694,678,Mostly Positive,3372,67440,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,devolver digital,"May 21, 2020",0
+286,robocraft,301520,5,1665,863,Mixed,2528,50560,Unity Engine,True,,,,, True, True, True,freejam,"Aug 24, 2017",0
+287,dear esther: landmark edition,520720,6,1183,323,Mostly Positive,1506,30120,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,secret mode,"Feb 14, 2017",0
+288,nascar heat 2,670900,5,233,128,Mixed,361,7220,Unity Engine,False,12.99,12.99,0.0,USD, True, False, False,704 games company,"Sep 12, 2017",0
+289,lovers in a dangerous spacetime,252110,8,2530,179,Very Positive,2709,54180,Unity Engine,False,12.679104477611938,12.679104477611938,0.0,CAD, True, True, True,asteroid base,"9 Sep, 2015",0
+290,my summer car,516750,8,40252,2651,Very Positive,42903,858060,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,amistech games,"Oct 24, 2016",0
+291,nascar heat 3,905450,6,316,107,Mostly Positive,423,8460,Unity Engine,False,12.99,12.99,0.0,USD, True, False, False,704 games company,"Sep 7, 2018",0
+292,pga tour 2k21,1016120,8,4168,769,Very Positive,4937,98740,Unity Engine,False,59.99,59.99,0.0,USD, True, False, False,2k,"Aug 20, 2020",0
+293,eco,382310,8,6668,1475,Very Positive,8143,162860,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,strange loop games,"Feb 6, 2018",0
+294,cypher,746710,8,492,41,Very Positive,533,10660,Unity Engine,False,4.99,4.99,0.0,USD, True, False, False,matthew brown,"Feb 20, 2018",0
+295,descenders,681280,9,9609,444,Overwhelmingly Positive,10053,201060,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,no more robots,"May 7, 2019",0
+296,crawl,293780,9,4444,217,Overwhelmingly Positive,4661,93220,Unity Engine,False,15.45360824742268,15.45360824742268,0.0,EUR, True, True, True,powerhoof,11 ABR 2017,0
+297,car mechanic simulator 2014,270850,8,3144,688,Very Positive,3832,76640,Unity Engine,False,0.69,6.99,90.0,USD, True, True, False,playway s.a.,"Jan 24, 2014",0
+298,triple town,209950,8,491,37,Very Positive,528,10560,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,spry fox llc,"Dec 6, 2012",0
+299,overload,448850,8,1238,72,Very Positive,1310,26200,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,"['revival productions', ' llc']","May 31, 2018",0
+300,monument valley,1927720,9,741,9,Overwhelmingly Positive,750,15000,Unity Engine,False,7.99,7.99,0.0,USD, True, False, False,ustwo games,"Jul 12, 2022",0
+301,kerbal space program,220200,9,82574,4202,Overwhelmingly Positive,86776,1735520,Unity Engine,False,39.99,39.99,0.0,USD, True, True, True,private division ,"Apr 27, 2015",0
+302,subnautica: below zero,848450,8,59194,5641,Very Positive,64835,1296700,Unity Engine,False,29.99,29.99,0.0,USD, True, True, False,unknown worlds entertainment,"May 13, 2021",0
+303,river city girls,1049320,8,1760,306,Very Positive,2066,41320,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,"['wayforward ', ' arc system works']","Sep 5, 2019",0
+304,syberia 3,464340,5,1214,1121,Mixed,2335,46700,Unity Engine,False,29.99,29.99,0.0,USD, True, True, False,microids,"Nov 13, 2017",0
+305,demon turf,1325900,8,230,29,Very Positive,259,5180,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,playtonic friends,"Nov 4, 2021",0
+306,haven,983970,8,2824,229,Very Positive,3053,61060,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,the game bakers,"Dec 3, 2020",0
+307,the stanley parable: ultra deluxe,1703340,8,13680,907,Very Positive,14587,291740,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,crows crows crows,"Apr 27, 2022",0
+308,dead secret,402260,8,351,85,Very Positive,436,8720,Unity Engine,False,14.99,14.99,0.0,USD, True, True, False,robot invader,"Mar 28, 2016",0
+309,getting over it with bennett foddy,240720,8,39674,7990,Very Positive,47664,953280,Unity Engine,False,7.99,7.99,0.0,USD, True, True, True,bennett foddy,"Dec 6, 2017",0
+310,viridi,375950,8,121,11,Very Positive,132,2640,Unity Engine,True,,,,, True, True, True,ice water games,"Aug 19, 2015",0
+311,chessaria: the tactical adventure,575340,6,69,21,Mostly Positive,90,1800,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,pixel wizards,"Mar 8, 2018",0
+312,praey for the gods,494430,8,1539,275,Very Positive,1814,36280,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,no matter studios,"Dec 14, 2021",0
+313,castle story,227860,5,4557,2577,Mixed,7134,142680,Unity Engine,False,24.99,24.99,0.0,USD, True, True, True,sauropod studio,"Aug 17, 2017",0
+314,shadowrun returns,234650,8,7722,982,Very Positive,8704,174080,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,paradox interactive,"Jul 25, 2013",0
+315,ravenfield,636480,9,49542,1425,Overwhelmingly Positive,50967,1019340,Unity Engine,False,17.99,17.99,0.0,USD, True, True, True,steelraven7,"May 18, 2017",0
+316,bug fables: the everlasting sapling,1082710,9,3155,67,Overwhelmingly Positive,3222,64440,Unity Engine,False,19.99,19.99,0.0,USD, True, False, False,dangen entertainment,"Nov 21, 2019",0
+317,blues and bullets,378660,5,669,429,Mixed,1098,21960,Unity Engine,False,4.99,4.99,0.0,USD, True, True, True,a crowd of monsters,"Jul 22, 2015",0
+318,risk of rain 2,632360,9,138238,4813,Overwhelmingly Positive,143051,2861020,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,gearbox publishing,"Aug 11, 2020",0
+319,ori and the blind forest,261570,9,39870,1916,Overwhelmingly Positive,41786,835720,Unity Engine,False,,,,, True, False, False,xbox game studios,"Mar 10, 2015",0
+320,shovel knight dig,1416050,6,293,121,Mostly Positive,414,8280,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,yacht club games,"Sep 23, 2022",0
+321,hotel transylvania 3: monsters overboard,757600,6,7,3,Mostly Positive,10,200,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,outright games ltd.,"Jul 10, 2018",0
+322,tacoma,343860,8,2214,318,Very Positive,2532,50640,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,fullbright,"Aug 1, 2017",0
+323,bus simulator 16,324310,5,1320,725,Mixed,2045,40900,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,astragon entertainment,"Mar 2, 2016",0
+324,my friend pedro,557340,9,20486,789,Overwhelmingly Positive,21275,425500,Unity Engine,False,19.3955223880597,19.3955223880597,0.0,CAD, True, False, False,devolver digital,"20 Jun, 2019",0
+325,beat saber,620980,9,57225,2319,Overwhelmingly Positive,59544,1190880,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,beat games,"May 21, 2019",0
+326,sally face,541570,9,11479,342,Overwhelmingly Positive,11821,236420,Unity Engine,False,2.99,2.99,0.0,USD, True, True, True,portable moose,"Dec 14, 2016",0
+327,gone home,232430,6,9422,2815,Mostly Positive,12237,244740,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,fullbright,"Aug 15, 2013",0
+328,gang beasts,285900,8,28553,6376,Very Positive,34929,698580,Unity Engine,False,19.99,19.99,0.0,USD, True, True, True,boneloaf,"Dec 12, 2017",0
+329,hollow knight,367520,9,215763,6132,Overwhelmingly Positive,221895,4437900,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,team cherry,"Feb 24, 2017",0
+330,poly bridge,367450,8,12094,1078,Very Positive,13172,263440,Unity Engine,False,9.99,9.99,0.0,USD, True, True, True,dry cactus,"Jul 12, 2016",0
+331,mother russia bleeds,361300,8,3177,446,Very Positive,3623,72460,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,devolver digital,"Sep 5, 2016",18
+332,valheim,892970,9,298036,14367,Overwhelmingly Positive,312403,6248060,Unity Engine,False,19.99,19.99,0.0,USD, True, False, True,coffee stain publishing,"Feb 2, 2021",0
+333,super monkey ball banana mania,1316910,8,763,103,Very Positive,866,17320,Unity Engine,False,29.99,29.99,0.0,USD, True, False, False,sega,"Oct 4, 2021",0
+334,enter the gungeon,311690,9,59286,2418,Overwhelmingly Positive,61704,1234080,Unity Engine,False,14.99,14.99,0.0,USD, True, True, True,devolver digital,"Apr 5, 2016",0
+335,blitzkrieg 3,235380,5,2690,2031,Mixed,4721,94420,Unity Engine,False,9.99,9.99,0.0,USD, True, True, False,nival,"Jun 2, 2017",0
+336,road 96,1466640,8,8385,748,Very Positive,9133,182660,Unity Engine,False,19.96,19.96,0.0,USD, True, False, False,"['digixart', ' ravenscourt']","Aug 16, 2021",0
+337,volume,365770,6,279,71,Mostly Positive,350,7000,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,bithell games,"Aug 18, 2015",0
+338,among us,945360,8,516793,44055,Very Positive,560848,11216960,Unity Engine,False,4.246268656716418,4.246268656716418,0.0,CAD, True, False, False,innersloth,"16 Nov, 2018",0
+339,cognition: an erica reed thriller,242780,8,277,54,Very Positive,331,6620,Unity Engine,False,14.99,14.99,0.0,USD, True, True, False,phoenix online publishing,"Sep 19, 2013",0
+340,bloons td 6,960090,9,182290,4646,Overwhelmingly Positive,186936,3738720,Unity Engine,False,13.99,13.99,0.0,USD, True, True, False,ninja kiwi,"Dec 17, 2018",0
+341,araya,466740,6,487,144,Mostly Positive,631,12620,Unity Engine,False,14.99,14.99,0.0,USD, True, False, False,mad virtual reality studio,"Nov 23, 2016",0
+342,the book of unwritten tales 2,279940,8,517,54,Very Positive,571,11420,Unity Engine,False,29.99,29.99,0.0,USD, True, True, True,thq nordic,"Feb 19, 2015",0
+343,overcooked,448510,8,9367,923,Very Positive,10290,205800,Unity Engine,False,16.99,16.99,0.0,USD, True, False, False,team17 digital ltd,"Aug 3, 2016",0
+344,cuphead,268910,9,103655,3548,Overwhelmingly Positive,107203,2144060,Unity Engine,False,19.99,19.99,0.0,USD, True, True, False,studio mdhr entertainment inc.,"Sep 29, 2017",0
+345,baldo: the guardian owls,1614890,5,95,55,Mixed,150,3000,Unity Engine,False,24.99,24.99,0.0,USD, True, False, False,naps team,"Aug 26, 2021",0
+346,9 monkeys of shaolin,739080,8,398,62,Very Positive,460,9200,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, True,esdigital games,"Oct 16, 2020",0
+347,nemezis: mysterious journey iii,986350,5,52,32,Mixed,84,1680,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,"['playway s.a.', ' detalion games s.a.']","Jul 8, 2021",0
+348,tropico 6,492720,8,12749,1839,Very Positive,14588,291760,Unreal Engine,False,39.99,39.99,0.0,USD, True, True, True,kalypso media,"Mar 29, 2019",13
+349,warp,102850,5,211,94,Mixed,305,6100,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,electronic arts,"Mar 21, 2012",18
+350,chernobylite,1016800,8,6480,1282,Very Positive,7762,155240,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,the farm 51,"Jul 28, 2021",17
+351,tekken 7,389730,8,42153,9580,Very Positive,51733,1034660,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,bandai namco entertainment,"Jun 1, 2017",0
+352,hmmsim metro,1591420,8,783,68,Very Positive,851,17020,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,jeminie interactive,"Jun 25, 2021",0
+353,moonbase alpha,39000,8,152,26,Very Positive,178,3560,Unreal Engine,True,,,,, True, False, False,nasa,"Jul 6, 2010",0
+354,rise of the triad,217140,5,1178,566,Mixed,1744,34880,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,apogee entertainment,"Jul 31, 2013",0
+355,viscera cleanup detail,246900,8,11752,806,Very Positive,12558,251160,Unreal Engine,False,12.99,12.99,0.0,USD, True, True, False,runestorm,"Oct 23, 2015",0
+356,ashen,649950,6,1650,701,Mostly Positive,2351,47020,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,annapurna interactive,"Dec 9, 2019",0
+357,battlefleet gothic: armada,363680,5,3114,1435,Mixed,4549,90980,Unreal Engine,False,2.99,14.99,80.0,USD, True, False, False,focus entertainment,"Apr 21, 2016",0
+358,gears tactics,1184050,6,4293,1325,Mostly Positive,5618,112360,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,xbox game studios,"Apr 28, 2020",17
+359,rad,722560,6,437,127,Mostly Positive,564,11280,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,bandai namco entertainment america inc.,"Aug 19, 2019",0
+360,desert thunder,283330,5,20,14,Mixed,34,680,Unreal Engine,False,2.99,2.99,0.0,USD, True, False, False,funbox media ltd,"Mar 19, 2014",0
+361,life is strange: true colors,936790,8,7427,834,Very Positive,8261,165220,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,square enix,"Sep 9, 2021",17
+362,martha is dead,515960,6,1027,265,Mostly Positive,1292,25840,Unreal Engine,False,20.99,29.99,30.0,USD, True, False, False,wired productions,"Feb 24, 2022",17
+363,destroy all humans!,803330,8,6499,427,Very Positive,6926,138520,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,thq nordic,"Jul 28, 2020",0
+364,fated: the silent oath,401820,6,70,28,Mostly Positive,98,1960,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,frima originals,"Apr 28, 2016",0
+365,gravel,558260,6,421,152,Mostly Positive,573,11460,Unreal Engine,False,29.99,29.99,0.0,USD, True, True, True,milestone s.r.l.,"Feb 27, 2018",0
+366,close to the sun,968870,6,318,106,Mostly Positive,424,8480,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,wired productions,"May 5, 2020",18
+367,sherlock holmes: the devil's daughter,350640,8,7983,1995,Very Positive,9978,199560,Unreal Engine,False,5.99,29.99,80.0,USD, True, False, False,frogwares,"Jun 10, 2016",0
+368,poppy playtime,1721470,6,19505,6348,Mostly Positive,25853,517060,Unreal Engine,True,,,,, True, False, False,mob games,"Oct 12, 2021",0
+369,lost planet 3,226720,5,1043,600,Mixed,1643,32860,Unreal Engine,False,4.99,24.99,80.0,USD, True, False, False,capcom,"Aug 26, 2013",0
+370,styx: shards of darkness,355790,8,2437,476,Very Positive,2913,58260,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,nacon,"Mar 14, 2017",0
+371,bioshock 2,8850,8,8616,1082,Very Positive,9698,193960,Unreal Engine,False,,,,, True, False, False,2k,"Feb 9, 2010",17
+372,dungeons & dragons: dark alliance,623280,5,1845,1779,Mixed,3624,72480,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,wizards of the coast,"Jun 21, 2021",17
+373,deadfall adventures,231330,6,855,297,Mostly Positive,1152,23040,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, True,thq nordic,"Nov 15, 2013",0
+374,nerf legends,1279910,4,7,18,Mostly Negative,25,500,Unreal Engine,False,49.99,49.99,0.0,USD, True, False, False,gamemill entertainment,"Nov 18, 2021",0
+375,hello neighbor,521890,8,6268,1183,Very Positive,7451,149020,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,tinybuild,"Dec 8, 2017",0
+376,darksiders genesis,710920,8,6315,1216,Very Positive,7531,150620,Unreal Engine,False,25.365671641791046,25.365671641791046,0.0,CAD, True, False, False,thq nordic,"5 Dec, 2019",0
+377,disintegration,536280,5,102,68,Mixed,170,3400,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,private division,"Jun 15, 2020",0
+378,soulcalibur vi,544750,8,5839,1258,Very Positive,7097,141940,Unreal Engine,False,13.49,89.99,85.0,USD, True, False, False,bandai namco entertainment,"18 Oct, 2018",0
+379,the occupation,765880,6,98,40,Mostly Positive,138,2760,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,humble games,"Mar 5, 2019",13
+380,darwin project,544920,6,1052,388,Mostly Positive,1440,28800,Unreal Engine,True,,,,, True, False, False,scavengers studio,"Jan 13, 2020",0
+381,kartkraft,406350,8,1544,349,Very Positive,1893,37860,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,motorsport games,"Nov 1, 2018",0
+382,what remains of edith finch,501300,9,24727,1196,Overwhelmingly Positive,25923,518460,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,annapurna interactive,"Apr 24, 2017",0
+383,reaching for petals,636170,6,86,33,Mostly Positive,119,2380,Unreal Engine,False,4.99,4.99,0.0,USD, True, False, False,blue entropy studios,"Sep 4, 2017",0
+384,let it die,794600,0,6,1,7 user reviews,7,140,Unreal Engine,True,,,,, True, False, False,"['gungho online entertainment america', ' inc.']","Sep 26, 2018",17
+385,mortal shell,1110910,6,2574,908,Mostly Positive,3482,69640,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,playstack,"Aug 18, 2021",0
+386,shenmue iii,878670,6,482,124,Mostly Positive,606,12120,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,prime matter,"Nov 19, 2020",0
+387,tales of arise,740130,8,16881,1847,Very Positive,18728,374560,Unreal Engine,False,33.99,84.99,60.0,USD, True, False, False,bandai namco entertainment,"Sep 9, 2021",0
+388,abzû,384190,8,16655,1228,Very Positive,17883,357660,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,505 games,"Aug 2, 2016",0
+389,the walking dead: saints & sinners,916840,8,5210,656,Very Positive,5866,117320,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,skydance interactive,"Jan 23, 2020",0
+390,ride 3,759740,8,2869,549,Very Positive,3418,68360,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,milestone s.r.l.,"Nov 30, 2018",0
+391,fernbus simulator,427100,5,3626,1624,Mixed,5250,105000,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,aerosoft gmbh,"Aug 25, 2016",0
+392,squad,393380,8,77496,8556,Very Positive,86052,1721040,Unreal Engine,False,37.49,49.99,25.0,USD, True, False, False,offworld industries,"Sep 23, 2020",0
+393,barrage,836080,7,36,6,Positive,42,840,Unreal Engine,False,4.99,4.99,0.0,USD, True, False, False, 原型工业 | archetype industry,"Apr 18, 2018",0
+394,dishonored,205100,9,51211,1373,Overwhelmingly Positive,52584,1051680,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,bethesda softworks,"Oct 8, 2012",17
+395,scorn,698670,6,3343,1216,Mostly Positive,4559,91180,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,kepler interactive,"Oct 14, 2022",0
+396,advent rising,3800,8,274,65,Very Positive,339,6780,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,ziggurat,"Sep 14, 2006",0
+397,amid evil,673130,9,4412,204,Overwhelmingly Positive,4616,92320,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,new blood interactive,"Jun 20, 2019",0
+398,obduction,306760,6,2041,573,Mostly Positive,2614,52280,Unreal Engine,False,29.99,29.99,0.0,USD, True, True, False,cyan inc.,"Aug 24, 2016",0
+399,satisfactory,526870,9,92198,2574,Overwhelmingly Positive,94772,1895440,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,coffee stain publishing,"Jun 8, 2020",0
+400,twin mirror,1552810,6,141,44,Mostly Positive,185,3700,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,dont nod,"Dec 1, 2021",0
+401,descent,273570,8,361,11,Very Positive,372,7440,Unreal Engine,False,9.99,9.99,0.0,USD, True, True, True,interplay inc.,"Feb 11, 2014",0
+402,bpm: bullets per minute,1286350,8,7161,538,Very Positive,7699,153980,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,awe interactive,"Sep 15, 2020",0
+403,crash time iii,33620,8,377,69,Very Positive,446,8920,Unreal Engine,False,5.99,5.99,0.0,USD, True, False, False,kalypso media digital,"Nov 25, 2009",0
+404,the vanishing of ethan carter,258520,8,5670,777,Very Positive,6447,128940,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,the astronauts,"Sep 25, 2014",0
+405,into the stars,360510,4,146,233,Mostly Negative,379,7580,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,iceberg interactive,"Mar 4, 2016",0
+406,psychonauts in the rhombus of ruin,788690,8,347,43,Very Positive,390,7800,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,double fine productions,"Apr 19, 2018",0
+407,postal redux,401680,8,2596,202,Very Positive,2798,55960,Unreal Engine,False,8.99,8.99,0.0,USD, True, False, True,running with scissors,"May 20, 2016",17
+408,maneater,629820,8,6796,722,Very Positive,7518,150360,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,tripwire interactive,"May 25, 2021",16
+409,back 4 blood,924970,5,20098,10658,Mixed,30756,615120,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,warner bros. games,"Oct 12, 2021",17
+410,rising storm 2: vietnam,418460,8,30890,4425,Very Positive,35315,706300,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,tripwire interactive,"May 30, 2017",0
+411,absolver,473690,6,7651,2865,Mostly Positive,10516,210320,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,devolver digital,"Aug 29, 2017",0
+412,fishing: barents sea,501080,6,1578,446,Mostly Positive,2024,40480,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,misc games,"Feb 7, 2018",0
+413,the medium,1293160,8,4465,567,Very Positive,5032,100640,Unreal Engine,False,49.99,49.99,0.0,USD, True, False, False,"['bloober team sa                      ', ' na publishing inc.']",Jan 2021,0
+414,ghostrunner,1139900,8,30149,2598,Very Positive,32747,654940,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,505 games,"Oct 27, 2020",17
+415,terminator: resistance,954740,8,8277,691,Very Positive,8968,179360,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,reef entertainment,"Nov 14, 2019",17
+416,choplifter hd,202070,8,168,23,Very Positive,191,3820,Unreal Engine,False,,,,, True, False, False,inxile entertainment,"Jan 11, 2012",0
+417,dirty bomb,333930,8,1087,240,Very Positive,1327,26540,Unreal Engine,True,,,,, True, False, False,warchest ltd.,Jun 2015,0
+418,xenon racer,899390,5,333,182,Mixed,515,10300,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,3dclouds,"Mar 26, 2019",0
+419,tribes of midgard,858820,6,8421,2510,Mostly Positive,10931,218620,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,gearbox publishing,"Jul 27, 2021",0
+420,rime,493200,8,2678,281,Very Positive,2959,59180,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,"['grey box', ' six foot']","May 26, 2017",0
+421,state of mind,437630,6,954,271,Mostly Positive,1225,24500,Unreal Engine,False,19.99,19.99,0.0,USD, True, True, True,daedalic entertainment,"Aug 15, 2018",0
+422,grounded,962130,8,26136,3481,Very Positive,29617,592340,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,xbox game studios,"Sep 27, 2022",0
+423,the king of fighters xv,1498570,8,3230,745,Very Positive,3975,79500,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,snk corporation,"Feb 16, 2022",0
+424,crash force,535690,0,4,1,5 user reviews,5,100,Unreal Engine,True,,,,, True, False, False,ascanio entertainment,"Jul 14, 2017",0
+425,ancestors legacy,620590,8,3509,822,Very Positive,4331,86620,Unreal Engine,False,34.99,34.99,0.0,USD, True, False, False,fulqrum publishing,"May 22, 2018",17
+426,sword art online: fatal bullet,626690,8,11088,2747,Very Positive,13835,276700,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,bandai namco entertainment,"Feb 23, 2018",0
+427,necromunda: hired gun,1222370,6,2912,1175,Mostly Positive,4087,81740,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,focus entertainment,"May 31, 2021",0
+428,daymare: 1998,842100,6,1464,546,Mostly Positive,2010,40200,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,"['destructive creations', ' all in! games']","Sep 17, 2019",17
+429,nba 2kvr experience,519490,4,5,11,Mostly Negative,16,320,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,2k,"Nov 21, 2016",0
+430,unreal ii: the awakening,13200,5,288,129,Mixed,417,8340,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,"['epic games', ' inc.']","Mar 17, 2008",17
+431,spec ops: the line,50300,8,23073,1539,Very Positive,24612,492240,Unreal Engine,False,29.99,29.99,0.0,USD, True, True, True,"['2k', ' missing link games']","Jun 25, 2012",17
+432,chivalry: medieval warfare,219640,8,37770,7661,Very Positive,45431,908620,Unreal Engine,False,24.99,24.99,0.0,USD, True, True, True,torn banner studios,"Oct 16, 2012",0
+433,perception,426310,6,330,123,Mostly Positive,453,9060,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,the deep end games,"May 30, 2017",0
+434,toxikk,324810,8,1122,210,Very Positive,1332,26640,Unreal Engine,True,,,,, True, False, False,schwiezer system gmbh,"Sep 10, 2016",0
+435,xcom 2,268500,8,49713,9312,Very Positive,59025,1180500,Unreal Engine,False,59.99,59.99,0.0,USD, True, True, True,"['2k', ' feral interactive (mac)', ' feral interactive (linux)']","Feb 4, 2016",0
+436,raw data,436320,8,1648,349,Very Positive,1997,39940,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,survios,"Oct 5, 2017",0
+437,days of war,454350,5,690,677,Mixed,1367,27340,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,driven arts,"Feb 4, 2020",0
+438,aliens: fireteam elite,1549970,8,10946,2463,Very Positive,13409,268180,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,"['cold iron studios', ' focus entertainment']","Aug 23, 2021",17
+439,torchlight iii,1030210,5,4515,4931,Mixed,9446,188920,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,perfect world entertainment,"Oct 13, 2020",0
+440,tower of guns,266110,8,403,63,Very Positive,466,9320,Unreal Engine,False,14.99,14.99,0.0,USD, True, True, True,versus evil,"Mar 4, 2014",0
+441,conarium,313780,6,1219,334,Mostly Positive,1553,31060,Unreal Engine,False,19.99,19.99,0.0,USD, True, True, True,iceberg interactive,"Jun 6, 2017",0
+442,worms rumble,1186040,5,874,387,Mixed,1261,25220,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,team17 digital,"Dec 1, 2020",0
+443,bless online,681660,4,2888,4441,Mostly Negative,7329,146580,Unreal Engine,False,,,,, True, False, False,neowiz,"Oct 23, 2018",0
+444,remember me,228300,8,7567,1515,Very Positive,9082,181640,Unreal Engine,False,5.99,29.99,80.0,USD, True, False, False,capcom,"Jun 3, 2013",16
+445,paladins,444090,8,7639,1542,Very Positive,9181,183620,Unreal Engine,True,,,,, True, True, False,hi-rez studios,"May 8, 2018",0
+446,almighty: kill your gods,1206600,5,190,84,Mixed,274,5480,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,versus evil,"May 5, 2021",17
+447,hood: outlaws & legends,927350,5,2763,2459,Mixed,5222,104440,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,focus entertainment,"May 10, 2021",0
+448,new gundam breaker,738530,5,676,790,Mixed,1466,29320,Unreal Engine,False,49.99,49.99,0.0,USD, True, False, False,bandai namco entertainment,"Sep 24, 2018",0
+449,shadow warrior 3,1036890,5,1292,788,Mixed,2080,41600,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,devolver digital,"Mar 1, 2022",0
+450,project wingman,895870,8,9242,518,Very Positive,9760,195200,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,"['sector d2', ' humble games']","Dec 1, 2020",0
+451,the quarry,1577120,6,2877,842,Mostly Positive,3719,74380,Unreal Engine,False,,,,, True, False, False,2k games,9 июн. 2022,0
+452,bios,350600,5,97,59,Mixed,156,3120,Unreal Engine,False,2.99,2.99,0.0,USD, True, False, False,pixyul,"Dec 13, 2016",0
+453,valhalla hills,351910,5,370,239,Mixed,609,12180,Unreal Engine,False,6.99,6.99,0.0,USD, True, True, True,daedalic entertainment,"Dec 2, 2015",0
+454,automation,1698690,7,12,3,Positive,15,300,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,one tree hill studios,"Jan 24, 2022",0
+455,tom clancy's rainbow six: vegas,13540,6,692,180,Mostly Positive,872,17440,Unreal Engine,False,7.455223880597015,7.455223880597015,0.0,CAD, True, False, False,ubisoft,"9 Apr, 2008",17
+456,scarlet nexus,775500,8,7387,1323,Very Positive,8710,174200,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,bandai namco entertainment,"Jun 24, 2021",0
+457,ruiner,464060,8,7540,811,Very Positive,8351,167020,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, True,devolver digital,"Sep 26, 2017",17
+458,tom clancy's rainbow six: vegas 2,15120,8,3444,596,Very Positive,4040,80800,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,ubisoft,"Apr 16, 2008",17
+459,arboria,924070,8,339,74,Very Positive,413,8260,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,all in! games,"Sep 9, 2021",0
+460,kao the kangaroo,1370140,8,256,58,Very Positive,314,6280,Unreal Engine,False,20.99,29.99,30.0,USD, True, False, False,tate multimedia,"May 27, 2022",0
+461,shadow ops: red mercury,286770,6,126,36,Mostly Positive,162,3240,Unreal Engine,False,6.99,6.99,0.0,USD, True, False, False,retroism,"Jul 2, 2014",13
+462,the deadly tower of monsters,353700,8,842,103,Very Positive,945,18900,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,sega,"Jan 19, 2016",0
+463,little nightmares,424840,8,30402,1896,Very Positive,32298,645960,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,bandai namco entertainment,"Apr 27, 2017",0
+464,g.i. joe: operation blackout,1432220,5,27,25,Mixed,52,1040,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,gamemill entertainment,"Dec 14, 2020",0
+465,mu legend,874240,0,1,8,9 user reviews,9,180,Unreal Engine,True,,,,, True, False, False,valofe,"Aug 6, 2018",0
+466,mirror's edge,17410,8,22128,3162,Very Positive,25290,505800,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,electronic arts,"Jan 14, 2009",0
+467,state of decay 2,495420,8,27386,5824,Very Positive,33210,664200,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,xbox game studios,"Mar 13, 2020",0
+468,the artful escape,1122680,8,853,61,Very Positive,914,18280,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,annapurna interactive,"Sep 9, 2021",0
+469,gemini: heroes reborn,324650,6,254,68,Mostly Positive,322,6440,Unreal Engine,False,2.99,2.99,0.0,USD, True, False, False,phosphor games,"Jan 18, 2016",13
+470,sanctum,91600,8,1671,174,Very Positive,1845,36900,Unreal Engine,False,9.99,9.99,0.0,USD, True, True, False,coffee stain publishing,"Apr 15, 2011",0
+471,tribes: ascend,17080,5,41,23,Mixed,64,1280,Unreal Engine,True,,,,, True, False, False,hi-rez studios,"Jun 27, 2012",0
+472,ghostwire: tokyo,1475810,8,4919,1081,Very Positive,6000,120000,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,bethesda softworks,"Mar 24, 2022",0
+473,godfall,928960,5,594,348,Mixed,942,18840,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,gearbox publishing,"Apr 7, 2022",0
+474,xcom: chimera squad,882100,6,12986,4875,Mostly Positive,17861,357220,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,2k,"Apr 23, 2020",0
+475,bioshock infinite,8870,8,89485,5716,Very Positive,95201,1904020,Unreal Engine,False,29.99,29.99,0.0,USD, True, True, True,2k,"Mar 25, 2013",17
+476,naruto to boruto: shinobi striker,633230,8,31671,5124,Very Positive,36795,735900,Unreal Engine,False,7.99,79.98,90.0,USD, True, False, False,bandai namco entertainment,"Aug 30, 2018",0
+477,spongebob squarepants: battle for bikini bottom - rehydrated,969990,9,9617,492,Overwhelmingly Positive,10109,202180,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,thq nordic,"Jun 23, 2020",0
+478,the flame in the flood,318600,6,1771,585,Mostly Positive,2356,47120,Unreal Engine,False,14.99,14.99,0.0,USD, True, True, False,"['the molasses flood', ' curve games']","Feb 24, 2016",0
+479,the ball,35460,6,544,182,Mostly Positive,726,14520,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,tripwire interactive,"Oct 26, 2010",17
+480,five nights at freddy's: help wanted,732690,9,7893,240,Overwhelmingly Positive,8133,162660,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,scottgames,"May 28, 2019",0
+481,mechwarrior 5: mercenaries,784080,8,4383,828,Very Positive,5211,104220,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,fireshine games,"May 26, 2021",0
+482,hellblade: senua's sacrifice,414340,8,41650,3783,Very Positive,45433,908660,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,ninja theory,"Aug 7, 2017",17
+483,road rage,499210,5,16,23,Mixed,39,780,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,maximum games,"Nov 14, 2017",17
+484,call of the sea,1042490,8,2014,214,Very Positive,2228,44560,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,raw fury,"Dec 8, 2020",13
+485,ether one,265950,6,219,75,Mostly Positive,294,5880,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,white paper games,"Mar 25, 2014",0
+486,dungeons & dragons: daggerdale,99100,4,72,157,Mostly Negative,229,4580,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,atari,"Jun 24, 2011",0
+487,ready or not,1144200,8,54452,4187,Very Positive,58639,1172780,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,void interactive,"Dec 17, 2021",0
+488,samurai shodown,1342260,6,386,130,Mostly Positive,516,10320,Unreal Engine,False,,,,, True, False, False,snk corporation,"Jun 14, 2021",0
+489,the outer worlds,578650,8,15443,2649,Very Positive,18092,361840,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,private division,"Oct 23, 2020",17
+490,daylight,382800,0,1,4,5 user reviews,5,100,Unreal Engine,False,,,,, True, True, True,devolver digital films,"Jul 17, 2015",14
+491,fighting ex layer,871200,8,446,90,Very Positive,536,10720,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,arika,"Nov 29, 2018",0
+492,mortal kombat x,307780,8,25909,4217,Very Positive,30126,602520,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,warner bros. interactive entertainment,"Apr 13, 2015",17
+493,bleeding edge,1189800,5,966,446,Mixed,1412,28240,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,ninja theory,"Mar 24, 2020",0
+494,alone in the dark: illumination,275060,4,50,174,Mostly Negative,224,4480,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,thq nordic,"Jun 11, 2015",0
+495,bloodstained: ritual of the night,692850,8,21985,1225,Very Positive,23210,464200,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,505 games,"Jun 18, 2019",0
+496,ghostbusters,425310,5,16,19,Mixed,35,700,Unreal Engine,False,,,,, True, False, False,activision,"Jul 12, 2016",0
+497,the mage's tale,766320,6,104,37,Mostly Positive,141,2820,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,inxile entertainment,"Mar 23, 2018",0
+498,street outlaws 2: winner takes all,1451950,6,13,5,Mostly Positive,18,360,Unreal Engine,False,49.99,49.99,0.0,USD, True, False, False,gamemill entertainment,"Dec 3, 2021",0
+499,it takes two,1426210,9,84202,3482,Overwhelmingly Positive,87684,1753680,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,electronic arts,"Mar 25, 2021",0
+500,city of brass,301840,6,504,132,Mostly Positive,636,12720,Unreal Engine,False,1.99,19.99,90.0,USD, True, False, False,uppercut games pty ltd,"May 4, 2018",0
+501,astroneer,361420,8,76735,6986,Very Positive,83721,1674420,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,system era softworks,"Feb 5, 2019",0
+502,space hulk: deathwing,298900,5,2622,2199,Mixed,4821,96420,Unreal Engine,False,,,,, True, False, False,focus entertainment,"Dec 14, 2016",0
+503,little nightmares ii,860510,8,17187,914,Very Positive,18101,362020,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,bandai namco entertainment,"Feb 10, 2021",0
+504,bioshock,7670,8,20454,1270,Very Positive,21724,434480,Unreal Engine,False,,,,, True, False, False,2k,"Aug 21, 2007",17
+505,tom clancy's splinter cell: conviction,33220,6,2140,868,Mostly Positive,3008,60160,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,ubisoft,"Apr 29, 2010",17
+506,the bureau: xcom declassified,65930,5,2984,1462,Mixed,4446,88920,Unreal Engine,False,19.99,19.99,0.0,USD, True, True, False,2k,"Aug 19, 2013",17
+507,marvel vs. capcom: infinite,493840,5,1004,583,Mixed,1587,31740,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,capcom,"Sep 19, 2017",0
+508,h-hour: world's elite,293220,5,414,194,Mixed,608,12160,Unreal Engine,False,6.99,6.99,0.0,USD, True, False, False,sof studios ltd,"Feb 17, 2020",0
+509,red matter,966680,8,602,55,Very Positive,657,13140,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,vertical robot,"Nov 10, 2018",0
+510,turok,405820,9,2254,116,Overwhelmingly Positive,2370,47400,Unreal Engine,False,19.99,19.99,0.0,USD, True, True, True,nightdive studios,"Dec 17, 2015",0
+511,gears 5,1097840,6,11007,4706,Mostly Positive,15713,314260,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,xbox game studios,"Sep 9, 2019",17
+512,the forgotten city,874260,9,5626,182,Overwhelmingly Positive,5808,116160,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,dear villagers,"Jul 28, 2021",0
+513,dungeon defenders,65800,8,9148,677,Very Positive,9825,196500,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,trendy entertainment,"Oct 18, 2011",0
+514,roboblitz,4300,6,29,8,Mostly Positive,37,740,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,naked sky entertainment,"Nov 7, 2006",0
+515,scum,513710,6,48152,15836,Mostly Positive,63988,1279760,Unreal Engine,False,34.99,34.99,0.0,USD, True, False, False,gamepires,"Aug 29, 2018",0
+516,outlast,1318840,0,1,0,1 user reviews,1,20,Unreal Engine,False,3.99,3.99,0.0,USD, True, True, False,sanan ahmed,"Jun 17, 2020",0
+517,observer,514900,8,3151,776,Very Positive,3927,78540,Unreal Engine,False,,,,, True, True, True,bloober team ,"15 Aug, 2017",17
+518,deus ex: invisible war,6920,5,921,711,Mixed,1632,32640,Unreal Engine,False,6.99,6.99,0.0,USD, True, False, False,square enix,"Mar 29, 2007",17
+519,a way out,1222700,8,20246,3052,Very Positive,23298,465960,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,electronic arts,"Jun 18, 2020",0
+520,antichamber,219890,9,11211,547,Overwhelmingly Positive,11758,235160,Unreal Engine,False,19.99,19.99,0.0,USD, True, True, True,demruth,"Jan 31, 2013",0
+521,the turing test,499520,8,5044,699,Very Positive,5743,114860,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,bulkhead,"Aug 30, 2016",0
+522,someday you'll return,840370,8,372,66,Very Positive,438,8760,Unreal Engine,False,9.99,19.99,50.0,USD, True, False, False,cbe software,"May 5, 2020",0
+523,life is strange 2,532210,8,15272,2893,Very Positive,18165,363300,Unreal Engine,True,,,,, True, True, True,"['square enix', ' feral interactive (mac)', ' feral interactive (linux)']","26 Sep, 2018",0
+524,fable anniversary,288470,8,8289,1536,Very Positive,9825,196500,Unreal Engine,False,34.99,34.99,0.0,USD, True, False, False,xbox game studios,"Sep 12, 2014",0
+525,primal carnage,215470,6,3748,1079,Mostly Positive,4827,96540,Unreal Engine,False,4.99,4.99,0.0,USD, True, False, False,circle 5 publishing,"Oct 29, 2012",0
+526,grip: combat racing,396900,8,2425,353,Very Positive,2778,55560,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,wired productions,"Nov 6, 2018",0
+527,mighty no. 9,314710,5,954,703,Mixed,1657,33140,Unreal Engine,False,19.99,19.99,0.0,USD, True, True, True,deep silver,"Jun 21, 2016",0
+528,raji: an ancient epic,730390,8,1271,203,Very Positive,1474,29480,Unreal Engine,False,21.634328358208954,21.634328358208954,0.0,CAD, True, False, False,supergg.com,"15 Oct, 2020",0
+529,splitgate,677620,8,153,10,Very Positive,163,3260,Unreal Engine,True,,,,, True, False, True,1047 games,"May 24, 2019",0
+530,time machine vr,356180,5,71,40,Mixed,111,2220,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,minority media inc.,"May 19, 2016",0
+531,kholat,343710,5,1212,579,Mixed,1791,35820,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,imgn.pro,"Jun 9, 2015",0
+532,gray dawn,747360,8,383,77,Very Positive,460,9200,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,interactive stone,"Jun 7, 2018",17
+533,rogue company,872200,6,37,10,Mostly Positive,47,940,Unreal Engine,True,,,,, True, False, False,hi-rez studios,"Jul 20, 2021",0
+534,killing floor 2,232090,8,64339,7933,Very Positive,72272,1445440,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,tripwire interactive,"Nov 18, 2016",17
+535,stray,1332010,9,73978,1948,Overwhelmingly Positive,75926,1518520,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,annapurna interactive,"Jul 19, 2022",0
+536,king's quest,345390,8,1107,138,Very Positive,1245,24900,Unreal Engine,True,,,,, True, False, False,sierra,"Jul 28, 2015",0
+537,singularity,42670,8,3943,313,Very Positive,4256,85120,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,activision,"Jun 30, 2010",0
+538,takedown: red sabre,236510,5,1395,2048,Mixed,3443,68860,Unreal Engine,False,4.99,4.99,0.0,USD, True, False, False,505 games,"Feb 10, 2014",0
+539,submerged: hidden depths,1614270,8,113,8,Very Positive,121,2420,Unreal Engine,False,20.99,29.99,30.0,USD, True, False, False,uppercut games pty ltd,"Mar 9, 2022",0
+540,nascar 21: ignition,1439300,4,100,274,Mostly Negative,374,7480,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,motorsport games,"Oct 27, 2021",0
+541,planet alpha,485030,6,361,100,Mostly Positive,461,9220,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,team17 digital ltd,"Sep 4, 2018",0
+542,dreadnought,835860,0,1,2,3 user reviews,3,60,Unreal Engine,True,,,,, True, False, False,"['grey box', ' six foot']","Oct 14, 2018",0
+543,necromunda: underhive wars,566440,5,1330,974,Mixed,2304,46080,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,focus entertainment,"Sep 7, 2020",0
+544,bravely default ii,1446650,8,848,170,Very Positive,1018,20360,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,square enix,"Sep 2, 2021",0
+545,submerged,301860,6,2897,955,Mostly Positive,3852,77040,Unreal Engine,False,1.99,19.99,90.0,USD, True, False, False,uppercut games pty ltd,"Aug 3, 2015",0
+546,hypercharge: unboxed,523660,8,2370,231,Very Positive,2601,52020,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, True,digital cybercherries,"Apr 27, 2020",0
+547,insurgency: sandstorm,581320,8,66925,10521,Very Positive,77446,1548920,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,focus entertainment,"Dec 12, 2018",17
+548,the culling,437220,5,7625,5450,Mixed,13075,261500,Unreal Engine,False,,,,, True, False, True,xaviant games,"Oct 5, 2017",0
+549,papo & yo,227080,8,1008,54,Very Positive,1062,21240,Unreal Engine,False,14.99,14.99,0.0,USD, True, True, True,minority media,"Apr 18, 2013",0
+550,samurai jack: battle through time,1150590,8,861,142,Very Positive,1003,20060,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,adult swim games,"Aug 21, 2020",0
+551,brothers in arms: road to hill 30,15190,8,1120,156,Very Positive,1276,25520,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,ubisoft,"May 13, 2008",17
+552,borderlands 2,49520,9,167830,8740,Overwhelmingly Positive,176570,3531400,Unreal Engine,False,4.99,19.99,75.0,USD, True, True, True,"['2k', ' aspyr (mac)', ' aspyr (linux)']","Sep 17, 2012",17
+553,the dark pictures anthology: house of ashes,1281590,8,3390,419,Very Positive,3809,76180,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,bandai namco entertainment europe,"Oct 21, 2021",17
+554,the park,402020,5,1560,676,Mixed,2236,44720,Unreal Engine,False,12.99,12.99,0.0,USD, True, False, False,funcom,"Oct 27, 2015",0
+555,borderlands: the pre-sequel,261640,8,21627,4320,Very Positive,25947,518940,Unreal Engine,False,11.99,39.99,70.0,USD, True, True, True,"['2k', ' aspyr (linux)']","Oct 13, 2014",17
+556,the ascent,979690,6,10111,3037,Mostly Positive,13148,262960,Unreal Engine,False,9.89,29.99,67.0,USD, True, False, False,curve games,"Jul 29, 2021",18
+557,lost ark,1599340,6,43876,16849,Mostly Positive,60725,1214500,Unreal Engine,True,,,,, True, False, False,amazon games,"Feb 11, 2022",17
+558,smite,386360,8,1102,260,Very Positive,1362,27240,Unreal Engine,True,,,,, True, False, False,hi-rez studios,"Sep 8, 2015",0
+559,haunted house: cryptic graves,314850,3,1,18,Negative,19,380,Unreal Engine,False,,,,, True, False, False,atari inc.,"Nov 25, 2014",0
+560,post scriptum,736220,8,11407,2730,Very Positive,14137,282740,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,offworld industries,"Aug 9, 2018",0
+561,override 2: super mech league,1329790,5,51,26,Mixed,77,1540,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,modus games,"Dec 22, 2020",0
+562,juju,300840,8,59,2,Very Positive,61,1220,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,flying wild hog,"Dec 10, 2014",0
+563,darksiders iii,606280,6,6575,2080,Mostly Positive,8655,173100,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,thq nordic,"Nov 27, 2018",0
+564,bacon man: an adventure,327760,6,13,4,Mostly Positive,17,340,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,skymap games,"Mar 6, 2018",0
+565,biomutant,597820,5,7602,3662,Mixed,11264,225280,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,thq nordic,"May 25, 2021",0
+566,downward,506900,6,317,130,Mostly Positive,447,8940,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, True,indiegala,"Jul 13, 2017",0
+567,rock of ages,22230,8,2540,244,Very Positive,2784,55680,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,sega,"Sep 7, 2011",0
+568,weird west,1097350,6,1342,458,Mostly Positive,1800,36000,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,devolver digital,"Mar 31, 2022",0
+569,dragon ball z: kakarot,851850,8,25142,1841,Very Positive,26983,539660,Unreal Engine,False,47.49,94.99,50.0,USD, True, False, False,bandai namco entertainment,"Jan 16, 2020",0
+570,"neko ghost, jump!",1194750,7,21,1,Positive,22,440,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, True,burgos games,"Jan 11, 2022",0
+571,mordhau,629760,8,69047,15801,Very Positive,84848,1696960,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,triternion,"Apr 29, 2019",0
+572,apsulov: end of gods,960980,8,889,125,Very Positive,1014,20280,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,angry demon studio,"Aug 8, 2019",0
+573,snake pass,544330,8,767,118,Very Positive,885,17700,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,secret mode,"Mar 28, 2017",0
+574,thief,239160,6,11292,3823,Mostly Positive,15115,302300,Unreal Engine,False,19.99,19.99,0.0,USD, True, True, False,"['square enix', ' feral interactive (mac)']","Feb 27, 2014",17
+575,postal 4: no regerts,707030,6,5351,1627,Mostly Positive,6978,139560,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,running with scissors,"Apr 20, 2022",0
+576,abyss odyssey,255070,5,826,388,Mixed,1214,24280,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,sega,"Jul 15, 2014",13
+577,guilty gear xrd -sign-,376300,8,1711,162,Very Positive,1873,37460,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,arc system works,"Dec 9, 2015",0
+578,agony,487720,5,941,984,Mixed,1925,38500,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,madmind studio,"May 29, 2018",0
+579,the sinking city,750130,6,1086,404,Mostly Positive,1490,29800,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,nacon,"Feb 26, 2021",0
+580,revolution 60,350200,4,14,38,Mostly Negative,52,1040,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,giant spacekat,"Sep 6, 2016",0
+581,aliens: colonial marines,49540,5,3696,2478,Mixed,6174,123480,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,sega,,17
+582,rocket league,252950,8,370971,41478,Very Positive,412449,8248980,Unreal Engine,False,,,,, True, False, False,psyonix llc,"Jul 6, 2015",0
+583,thief: deadly shadows,6980,8,1531,345,Very Positive,1876,37520,Unreal Engine,False,8.99,8.99,0.0,USD, True, False, False,square enix,"Mar 29, 2007",0
+584,mutant year zero: road to eden,760060,8,10279,1094,Very Positive,11373,227460,Unreal Engine,False,34.99,34.99,0.0,USD, True, False, False,funcom,"Dec 4, 2018",0
+585,chivalry 2,1824220,8,11230,2581,Very Positive,13811,276220,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,tripwire presents,"Jun 12, 2022",17
+586,call of cthulhu,399810,6,5466,1519,Mostly Positive,6985,139700,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,focus entertainment,"Oct 29, 2018",0
+587,remnant: from the ashes,617290,8,30420,5301,Very Positive,35721,714420,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,perfect world entertainment,"Aug 19, 2019",17
+588,cyberdimension neptunia: 4 goddesses online,632350,8,3313,463,Very Positive,3776,75520,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,idea factory international,"Feb 27, 2018",0
+589,tom clancy's splinter cell: double agent,13580,4,466,753,Mostly Negative,1219,24380,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,ubisoft,"Feb 13, 2009",17
+590,deadlight,211400,6,7074,1860,Mostly Positive,8934,178680,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,xbox game studios,"Oct 25, 2012",17
+591,blair witch,1092660,6,3307,975,Mostly Positive,4282,85640,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,bloober team na,"Aug 30, 2019",17
+592,outriders,680420,5,28716,15037,Mixed,43753,875060,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,square enix,"Apr 1, 2021",17
+593,hatred,341940,8,9183,2206,Very Positive,11389,227780,Unreal Engine,False,5.99,5.99,0.0,USD, True, False, True,destructive creations,"Jun 1, 2015",18
+594,friday the 13th: the game,438740,6,46157,11944,Mostly Positive,58101,1162020,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,gun media,"May 25, 2017",17
+595,gigantic,327690,7,15,0,Positive,15,300,Unreal Engine,False,,,,, True, False, False,perfect world entertainment,"Jul 19, 2017",0
+596,the dark pictures anthology: little hope,1194630,6,3129,1215,Mostly Positive,4344,86880,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,bandai namco entertainment europe,"Oct 29, 2020",17
+597,dark and light,529180,5,5296,4605,Mixed,9901,198020,Unreal Engine,False,17.99,17.99,0.0,USD, True, False, False,snail games usa,"Jul 20, 2017",0
+598,loading human,522200,4,7,14,Mostly Negative,21,420,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,maximum games,"Oct 14, 2016",0
+599,home sweet home,617160,8,2405,316,Very Positive,2721,54420,Unreal Engine,False,16.99,16.99,0.0,USD, True, False, False,"['yggdrazil group co.', 'ltd']","Sep 26, 2017",0
+600,code vein,678960,8,27845,4427,Very Positive,32272,645440,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,bandai namco entertainment,"Sep 26, 2019",16
+601,pool nation fx,314000,8,289,66,Very Positive,355,7100,Unreal Engine,True,,,,, True, False, False,cherry pop games,"Dec 7, 2015",0
+602,the solus project,313630,6,1874,484,Mostly Positive,2358,47160,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,teotl studios,"Jun 7, 2016",0
+603,sea of thieves,1172620,8,191394,19658,Very Positive,211052,4221040,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,xbox game studios,"Jun 3, 2020",0
+604,sherlock holmes chapter one,1137300,8,1320,326,Very Positive,1646,32920,Unreal Engine,False,20.24,44.99,55.0,USD, True, False, False,frogwares,"Nov 15, 2021",17
+605,bright memory,955050,8,26190,2320,Very Positive,28510,570200,Unreal Engine,False,7.99,7.99,0.0,USD, True, False, False,"['fyqd-studio', ' playism']","Mar 25, 2020",0
+606,yaiba: ninja gaiden z,252230,5,449,245,Mixed,694,13880,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,"['koei tecmo games co.', ' ltd.']","Mar 21, 2014",0
+607,kena: bridge of spirits,1954200,8,1546,149,Very Positive,1695,33900,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,ember lab,"Sep 26, 2022",0
+608,styx: master of shadows,242640,8,5945,1200,Very Positive,7145,142900,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,"['cyanide studio', ' nacon']","Oct 7, 2014",17
+609,days gone,1259420,8,26586,2102,Very Positive,28688,573760,Unreal Engine,False,49.99,49.99,0.0,USD, True, False, False,playstation pc llc,"May 17, 2021",17
+610,quantum conundrum,200010,8,1280,246,Very Positive,1526,30520,Unreal Engine,False,8.99,8.99,0.0,USD, True, False, False,square enix,"Jun 21, 2012",0
+611,graven,1371690,5,344,154,Mixed,498,9960,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,"['3d realms', ' fulqrum publishing']","May 26, 2021",0
+612,red orchestra: ostfront 41-45,1200,8,1073,190,Very Positive,1263,25260,Unreal Engine,False,4.99,4.99,0.0,USD, True, True, True,tripwire interactive,"Mar 14, 2006",0
+613,race with ryan,1054990,6,11,4,Mostly Positive,15,300,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,outright games ltd.,"Nov 1, 2019",0
+614,blacklight: retribution,209870,5,78,80,Mixed,158,3160,Unreal Engine,False,,,,, True, False, False,"['hardsuit labs', ' inc.']","Jul 2, 2012",0
+615,the eternal cylinder,865680,6,77,22,Mostly Positive,99,1980,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,good shepherd entertainment,"Oct 13, 2022",0
+616,conan exiles,440900,6,45028,12662,Mostly Positive,57690,1153800,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,funcom,"May 8, 2018",18
+617,get even,299950,6,581,171,Mostly Positive,752,15040,Unreal Engine,False,4.49,29.99,85.0,USD, True, False, False,bandai namco entertainment,"Jun 20, 2017",0
+618,x-com: enforcer,7770,5,134,109,Mixed,243,4860,Unreal Engine,False,4.99,4.99,0.0,USD, True, False, False,2k,"Sep 4, 2008",0
+619,moss,846470,8,2104,119,Very Positive,2223,44460,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,polyarc,"Jun 7, 2018",0
+620,predator: hunting grounds,1556200,6,1586,427,Mostly Positive,2013,40260,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,playstation pc llc,"Apr 29, 2021",17
+621,alien breed 2: assault,22650,6,230,74,Mostly Positive,304,6080,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,team17 digital ltd,"Sep 22, 2010",0
+622,eden star,259570,5,578,402,Mixed,980,19600,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,flix interactive,"Jan 30, 2015",0
+623,outlast 2,414700,8,28185,2842,Very Positive,31027,620540,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,red barrels,"Apr 24, 2017",0
+624,alice: madness returns,19680,8,7990,1044,Very Positive,9034,180680,Unreal Engine,False,20.141791044776117,20.141791044776117,0.0,CAD, True, False, False,electronic arts,"17 Jun, 2011",17
+625,dragon ball fighterz,678950,8,35759,3690,Very Positive,39449,788980,Unreal Engine,False,14.24,94.98,85.0,USD, True, False, False,bandai namco entertainment,"Jan 26, 2018",0
+626,a fisherman's tale,559330,8,693,50,Very Positive,743,14860,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,vertigo games,"Jan 22, 2019",0
+627,nba playgrounds,545270,6,756,270,Mostly Positive,1026,20520,Unreal Engine,False,,,,, True, False, False,"['mad dog games', ' llc']","May 8, 2017",0
+628,tom clancy's splinter cell,13560,8,1882,278,Very Positive,2160,43200,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,ubisoft,"Apr 1, 2008",0
+629,colony ship: a post-earth role playing game,648410,8,548,97,Very Positive,645,12900,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,iron tower studio,"Apr 6, 2021",0
+630,myst,1255560,8,765,93,Very Positive,858,17160,Unreal Engine,False,29.99,29.99,0.0,USD, True, True, False,cyan worlds inc,"Aug 26, 2021",0
+631,alien breed 3: descent,22670,6,222,69,Mostly Positive,291,5820,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,team17 digital ltd,"Nov 17, 2010",0
+632,rising storm,234510,8,84,1,Very Positive,85,1700,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,tripwire interactive,"May 30, 2013",0
+633,we happy few,320240,6,6960,2197,Mostly Positive,9157,183140,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,gearbox publishing,"Aug 10, 2018",17
+634,trek to yomi,1370050,5,679,305,Mixed,984,19680,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,devolver digital,"May 5, 2022",0
+635,spirit of the north,1213700,8,1904,251,Very Positive,2155,43100,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,merge games,"May 7, 2020",0
+636,in verbis virtus,242840,6,1117,295,Mostly Positive,1412,28240,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,indomitus games,"Apr 3, 2015",0
+637,xcom: enemy within,225340,8,1241,127,Very Positive,1368,27360,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, True,"['2k', ' feral interactive (linux)']","Nov 11, 2013",17
+638,scourge: outbreak,227560,5,136,73,Mixed,209,4180,Unreal Engine,False,5.99,5.99,0.0,USD, True, True, False,bitbox s.l.,"Apr 2, 2014",17
+639,dc universe online,24200,6,146,58,Mostly Positive,204,4080,Unreal Engine,True,,,,, True, False, False,daybreak game company,"Nov 2, 2011",0
+640,the vanishing of ethan carter redux,400430,8,741,107,Very Positive,848,16960,Unreal Engine,False,,,,, True, False, False,,,0
+641,global agenda,17020,6,293,74,Mostly Positive,367,7340,Unreal Engine,True,,,,, True, False, False,hi-rez studios,"Jun 14, 2011",0
+642,mortal online,287920,6,58,23,Mostly Positive,81,1620,Unreal Engine,True,,,,, True, False, False,star vault ab,"Aug 31, 2015",0
+643,backbone,865610,5,819,501,Mixed,1320,26400,Unreal Engine,False,24.99,24.99,0.0,USD, True, True, False,raw fury,"Jun 8, 2021",17
+644,deformers,491770,4,21,45,Mostly Negative,66,1320,Unreal Engine,False,,,,, True, False, False,"['gametrust games', ' ready at dawn']","Apr 20, 2017",0
+645,brothers in arms: earned in blood,19800,8,575,83,Very Positive,658,13160,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,ubisoft,"Oct 10, 2008",17
+646,mobile forces,837940,8,55,3,Very Positive,58,1160,Unreal Engine,False,3.99,3.99,0.0,USD, True, False, False,funbox media ltd,"Jun 8, 2018",0
+647,frontlines: fuel of war,9460,5,452,243,Mixed,695,13900,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,thq nordic,"Feb 29, 2008",0
+648,hunted: the demon's forge,22450,6,628,218,Mostly Positive,846,16920,Unreal Engine,False,4.99,4.99,0.0,USD, True, False, False,bethesda softworks,"May 30, 2011",17
+649,q.u.b.e.,203730,9,653,34,Overwhelmingly Positive,687,13740,Unreal Engine,False,,,,, True, True, False,toxic games,"Dec 16, 2011",0
+650,the suicide of rachel foster,1057750,6,2372,947,Mostly Positive,3319,66380,Unreal Engine,False,17.99,17.99,0.0,USD, True, False, False,daedalic entertainment,"Feb 19, 2020",0
+651,assetto corsa competizione,805550,8,13964,1315,Very Positive,15279,305580,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,505 games,"May 29, 2019",0
+652,the bus,491540,6,2668,762,Mostly Positive,3430,68600,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,aerosoft gmbh,"Mar 25, 2021",0
+653,psychonauts 2,607080,9,6110,146,Overwhelmingly Positive,6256,125120,Unreal Engine,False,59.99,59.99,0.0,USD, True, True, True,xbox game studios,"Aug 24, 2021",0
+654,aven colony,484900,6,1158,390,Mostly Positive,1548,30960,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,team17 digital ltd,"Jul 25, 2017",0
+655,redout 2,1799930,6,403,115,Mostly Positive,518,10360,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,saber interactive,"Jun 16, 2022",0
+656,song of horror,1096570,8,1085,230,Very Positive,1315,26300,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,🚀 raiser games,"Oct 31, 2019",0
+657,stela,1048600,6,488,138,Mostly Positive,626,12520,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,skybox labs,"Mar 13, 2020",0
+658,obliteracers,368740,5,102,55,Mixed,157,3140,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,"['varkian empire', ' deck13']","Feb 23, 2016",0
+659,borderlands 3,397540,8,69754,12718,Very Positive,82472,1649440,Unreal Engine,False,14.99,59.99,75.0,USD, True, False, False,2k,"Mar 13, 2020",17
+660,tell me why,1180660,8,2514,276,Very Positive,2790,55800,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,xbox game studios ,"Aug 27, 2020",17
+661,mothergunship,574090,6,765,196,Mostly Positive,961,19220,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,versus evil,"Jul 17, 2018",0
+662,tom clancy's splinter cell: chaos theory,13570,8,3163,216,Very Positive,3379,67580,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,ubisoft,"Aug 27, 2009",0
+663,the assembly,373650,5,88,39,Mixed,127,2540,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,ndreams,"Jul 19, 2016",0
+664,bus simulator 21,976590,5,1324,625,Mixed,1949,38980,Unreal Engine,False,34.99,34.99,0.0,USD, True, False, False,astragon entertainment,"Sep 7, 2021",0
+665,journey to the savage planet,973810,8,3252,422,Very Positive,3674,73480,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,505 games,"Jan 28, 2021",0
+666,danger zone,604740,5,105,46,Mixed,151,3020,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,three fields entertainment,"May 29, 2017",0
+667,flashback,961620,8,259,55,Very Positive,314,6280,Unreal Engine,False,9.99,9.99,0.0,USD, True, True, False,microids,"Feb 28, 2019",0
+668,draugen,770390,6,1121,360,Mostly Positive,1481,29620,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,red thread games,"May 29, 2019",0
+669,vampyr,427290,6,10087,3116,Mostly Positive,13203,264060,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,focus entertainment,"Jun 4, 2018",0
+670,icarus,1149460,5,14060,7502,Mixed,21562,431240,Unreal Engine,False,34.99,34.99,0.0,USD, True, False, False,rocketwerkz,"Dec 3, 2021",0
+671,bus simulator 18,515180,6,5390,1439,Mostly Positive,6829,136580,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,astragon entertainment,"Jun 13, 2018",0
+672,the dark pictures anthology: man of medan,939850,6,4303,1593,Mostly Positive,5896,117920,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,bandai namco entertainment europe,"Aug 29, 2019",17
+673,the gunk,1087760,8,257,54,Very Positive,311,6220,Unreal Engine,False,24.99,24.99,0.0,USD, True, False, False,thunderful publishing,"Apr 29, 2022",0
+674,ark: survival evolved,346110,8,370836,75228,Very Positive,446064,8921280,Unreal Engine,False,19.99,19.99,0.0,USD, True, True, False,studio wildcard,"Aug 27, 2017",0
+675,trials of mana,924980,8,3550,287,Very Positive,3837,76740,Unreal Engine,False,44.76865671641791,44.76865671641791,0.0,CAD, True, False, False,square enix,"24 Apr, 2020",0
+676,xiii,1154790,4,204,682,Mostly Negative,886,17720,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,microids,"Nov 10, 2020",17
+677,renoir,496400,5,32,32,Mixed,64,1280,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,fulqrum publishing,"Nov 16, 2016",0
+678,unmechanical,211180,8,265,23,Very Positive,288,5760,Unreal Engine,False,9.99,9.99,0.0,USD, True, True, True,teotl studios,"Aug 8, 2012",0
+679,visage,594330,8,5019,700,Very Positive,5719,114380,Unreal Engine,False,34.99,34.99,0.0,USD, True, False, False,sadsquare studio,"Oct 29, 2020",0
+680,die young,433170,8,1075,262,Very Positive,1337,26740,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,indiegala,"Sep 12, 2019",0
+681,"warhammer 40,000: eternal crusade",375230,5,1990,1799,Mixed,3789,75780,Unreal Engine,False,,,,, True, False, False,behaviour interactive inc.,"Sep 23, 2016",0
+682,street fighter v,310950,6,17016,7209,Mostly Positive,24225,484500,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,capcom,"Feb 15, 2016",0
+683,sanctum 2,210770,8,6592,500,Very Positive,7092,141840,Unreal Engine,False,14.99,14.99,0.0,USD, True, True, True,coffee stain publishing,"May 15, 2013",0
+684,a hat in time,253230,9,34935,650,Overwhelmingly Positive,35585,711700,Unreal Engine,False,29.99,29.99,0.0,USD, True, True, False,gears for breakfast,"Oct 5, 2017",0
+685,the battle of sol,282620,5,36,23,Mixed,59,1180,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,"['bit planet games', ' llc']","Jul 1, 2015",0
+686,xing: the land beyond,299400,8,209,26,Very Positive,235,4700,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,white lotus interactive,"Sep 21, 2017",0
+687,unreal tournament 2004,13230,9,2940,72,Overwhelmingly Positive,3012,60240,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,"['epic games', ' inc.']","Mar 17, 2004",17
+688,hell let loose,686810,8,47577,6571,Very Positive,54148,1082960,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,team17,"Jul 27, 2021",0
+689,bright memory: infinite,1178830,8,25798,2023,Very Positive,27821,556420,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,"['fyqd-studio', ' playism']","Nov 11, 2021",0
+690,xcom: enemy unknown,200510,8,32187,1914,Very Positive,34101,682020,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, True,"['2k', ' feral interactive (linux)']","Oct 8, 2012",17
+691,five nights at freddy's: security breach,747660,8,30924,5685,Very Positive,36609,732180,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,scottgames,"Dec 16, 2021",0
+692,shape of the world,642610,8,130,29,Very Positive,159,3180,Unreal Engine,False,2.59,12.99,80.0,USD, True, False, False,plug in digital,"Jun 5, 2018",0
+693,mortal kombat 11,976310,8,43953,6402,Very Positive,50355,1007100,Unreal Engine,False,31.747717137396478,31.747717137396478,0.0,CLP, True, False, False,"['warner bros. games', ' warner bros. interactive entertainment']",23 ABR 2019,18
+694,world war 3,674020,5,17128,10658,Mixed,27786,555720,Unreal Engine,True,,,,, True, False, False,"['wishlist games', ' the 4 winds entertainment']","Oct 19, 2018",0
+695,pneuma: breath of life,347440,5,85,40,Mixed,125,2500,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,"['deco digital', ' bevel studios']","Feb 27, 2015",0
+696,magrunner: dark pulse,209630,8,255,61,Very Positive,316,6320,Unreal Engine,False,19.99,19.99,0.0,USD, True, False, False,frogwares,"Jun 20, 2013",0
+697,trover saves the universe,1051200,8,2294,195,Very Positive,2489,49780,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,"['squanch games', ' inc.']","Jun 4, 2019",17
+698,bless unleashed,1254120,5,128,77,Mixed,205,4100,Unreal Engine,True,,,,, True, False, False,valofe,"Aug 6, 2021",0
+699,r-type final 2,1442820,6,373,100,Mostly Positive,473,9460,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,"['nis america', ' inc.']","Apr 30, 2021",0
+700,aquanox deep descent,254370,5,178,186,Mixed,364,7280,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,thq nordic,"Oct 16, 2020",0
+701,octopath traveler,921570,8,7639,1175,Very Positive,8814,176280,Unreal Engine,False,59.99,59.99,0.0,USD, True, False, False,square enix,"Jun 7, 2019",0
+702,postal 2,223470,9,61162,2364,Overwhelmingly Positive,63526,1270520,Unreal Engine,False,9.99,9.99,0.0,USD, True, True, True,running with scissors,"Nov 2, 2012",18
+703,orcs must die! 3,1522820,8,5451,1055,Very Positive,6506,130120,Unreal Engine,False,29.99,29.99,0.0,USD, True, False, False,robot entertainment,"Jul 23, 2021",0
+704,rise of the argonauts,12770,6,244,71,Mostly Positive,315,6300,Unreal Engine,False,9.99,9.99,0.0,USD, True, False, False,"['codemasters', ' electronic arts']","Jan 7, 2009",17
+705,century: age of ashes,918570,8,990,219,Very Positive,1209,24180,Unreal Engine,True,,,,, True, False, False,playwing ltd,"Dec 2, 2021",0
+706,i am alive,214250,5,1471,743,Mixed,2214,44280,Unreal Engine,False,14.99,14.99,0.0,USD, True, False, False,ubisoft,"Sep 6, 2012",17
+707,legendary,16730,5,1060,846,Mixed,1906,38120,Unreal Engine,False,4.99,4.99,0.0,USD, True, False, False,southpeak games,"Dec 1, 2008",17
+708,goat simulator,265930,8,41090,4759,Very Positive,45849,916980,Unreal Engine,False,9.99,9.99,0.0,USD, True, True, True,coffee stain publishing,"Apr 1, 2014",0
+709,the pathless,1492680,8,598,56,Very Positive,654,13080,Unreal Engine,False,39.99,39.99,0.0,USD, True, False, False,annapurna interactive,"Nov 16, 2021",0
